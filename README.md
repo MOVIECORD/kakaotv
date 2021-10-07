@@ -10,6 +10,7 @@ https://moviecord.github.io/kakaotv/all.xml
 - 파이트클럽: https://moviecord.github.io/kakaotv/fightclub.xml
 - 개미는 뚠뚠5: https://moviecord.github.io/kakaotv/ttunttun5.xml
 - 런웨이2: https://moviecord.github.io/kakaotv/runway2.xml
+- 안소희: https://moviecord.github.io/kakaotv/ansohee.xml
 
 ## 음악
 - 더듬이TV <우당탕탕 안테나>: https://moviecord.github.io/kakaotv/antenna.xml
