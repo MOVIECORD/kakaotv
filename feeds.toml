@@ -42,8 +42,52 @@ imageSelector = "span.thumb_box img.thumb_img"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[ttunttun]
+title = "kakaoTV ─ 개미는 오늘도 뚠뚠"
+url = "https://tv.kakao.com/channel/3647847/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a.link_contents"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[ttunttun2]
+title = "kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2"
+url = "https://tv.kakao.com/channel/3717609/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a.link_contents"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[ttunttun3]
+title = "kakaoTV ─ 개미는 오늘도 뚠뚠 챕터3"
+url = "https://tv.kakao.com/channel/3765289/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a.link_contents"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[ttunttun4]
+title = "kakaoTV ─ 개미는 오늘도 뚠뚠 챕터4"
+url = "https://tv.kakao.com/channel/3815196/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a.link_contents"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
+waitUntil = "networkidle"
+onFail = "stale"
+
 [ttunttun5]
-title = "kakaoTV ─ 개미는 뚠뚠5"
+title = "kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5"
 url = "https://tv.kakao.com/channel/3875615/video"
 entrySelector = "ul.list_vertical li"
 titleSelector = "strong.tit_item"
