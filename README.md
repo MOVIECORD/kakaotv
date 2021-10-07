@@ -1,4 +1,4 @@
-# 카카오TV
+# 카카오TV 오리지널
 https://moviecord.github.io/kakaotv/all.xml
 
 
