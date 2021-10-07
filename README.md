@@ -3,6 +3,7 @@ https://moviecord.github.io/kakaotv/all.xml
 
 
 ## 웹드라마
+- 우수무당 가두심: https://moviecord.github.io/kakaotv/gadooshim.xml
 
 ## 예능
 - 톡이나 할까: https://moviecord.github.io/kakaotv/eanakim.xml
