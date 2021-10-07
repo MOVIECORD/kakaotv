@@ -31,7 +31,7 @@ imageSelector = "span.thumb_box img.thumb_img"
 waitUntil = "networkidle"
 onFail = "stale"
 
-[fightclub]
+[antenna]
 title = "kakaoTV ─ 더듬이TV 우당탕탕 안테나"
 url = "https://tv.kakao.com/channel/3883129/video"
 entrySelector = "ul.list_vertical li"
