@@ -41,3 +41,15 @@ contentSelector = "span.mark_play"
 imageSelector = "span.thumb_box img.thumb_img"
 waitUntil = "networkidle"
 onFail = "stale"
+
+
+[ttunttun5]
+title = "kakaoTV ─ 더듬이TV 우당탕탕 안테나"
+url = "https://tv.kakao.com/channel/3875615/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a.link_contents"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
+waitUntil = "networkidle"
+onFail = "stale"
