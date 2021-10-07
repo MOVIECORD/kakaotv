@@ -14,11 +14,11 @@ https://moviecord.github.io/kakaotv/all.xml
 
 ## 금융
 - 개미는 오늘도 뚠뚠
-  - [개미는 오늘도 뚠뚠 챕터1](https://tv.kakao.com/channel/3647847/video): https://moviecord.github.io/kakaotv/ttunttun.xml
-  - [개미는 오늘도 뚠뚠 챕터2](https://tv.kakao.com/channel/3717609/video): https://moviecord.github.io/kakaotv/ttunttun2.xml
-  - [개미는 오늘도 뚠뚠 챕터3](https://tv.kakao.com/channel/3765289/video): https://moviecord.github.io/kakaotv/ttunttun3.xml
-  - [개미는 오늘도 뚠뚠 챕터4](https://tv.kakao.com/channel/3815196/video): https://moviecord.github.io/kakaotv/ttunttun4.xml
-  - [개미는 오늘도 뚠뚠 챕터5](https://tv.kakao.com/channel/3875615/video): https://moviecord.github.io/kakaotv/ttunttun5.xml
+  - [챕터1](https://tv.kakao.com/channel/3647847/video): https://moviecord.github.io/kakaotv/ttunttun.xml
+  - [챕터2](https://tv.kakao.com/channel/3717609/video): https://moviecord.github.io/kakaotv/ttunttun2.xml
+  - [챕터3](https://tv.kakao.com/channel/3765289/video): https://moviecord.github.io/kakaotv/ttunttun3.xml
+  - [챕터4](https://tv.kakao.com/channel/3815196/video): https://moviecord.github.io/kakaotv/ttunttun4.xml
+  - [챕터5](https://tv.kakao.com/channel/3875615/video): https://moviecord.github.io/kakaotv/ttunttun5.xml
 
 ## 음악
 - 더듬이TV <우당탕탕 안테나>: https://moviecord.github.io/kakaotv/antenna.xml
