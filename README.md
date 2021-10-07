@@ -9,9 +9,16 @@ https://moviecord.github.io/kakaotv/all.xml
 - 톡이나 할까: https://moviecord.github.io/kakaotv/eanakim.xml
 - 찐경규: https://moviecord.github.io/kakaotv/kyungkyulee.xml
 - 파이트 클럽: https://moviecord.github.io/kakaotv/fightclub.xml
-- 개미는 뚠뚠5: https://moviecord.github.io/kakaotv/ttunttun5.xml
 - 런웨이2: https://moviecord.github.io/kakaotv/runway2.xml
 - 안소희: https://moviecord.github.io/kakaotv/ansohee.xml
+
+## 금융
+- 개미는 오늘도 뚠뚠
+  - [개미는 오늘도 뚠뚠 챕터1](https://tv.kakao.com/channel/3647847/video)
+  - [개미는 오늘도 뚠뚠 챕터2](https://tv.kakao.com/channel/3717609/video)
+  - [개미는 오늘도 뚠뚠 챕터3](https://tv.kakao.com/channel/3765289/video)
+  - [개미는 오늘도 뚠뚠 챕터4](https://tv.kakao.com/channel/3815196/video)
+  - [개미는 오늘도 뚠뚠 챕터5](https://tv.kakao.com/channel/3875615/video): https://moviecord.github.io/kakaotv/ttunttun5.xml
 
 ## 음악
 - 더듬이TV <우당탕탕 안테나>: https://moviecord.github.io/kakaotv/antenna.xml
