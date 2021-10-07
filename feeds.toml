@@ -1,0 +1,10 @@
+[eanakim]
+title = "kakaoTV ─ 톡이나 할까"
+url = "https://tv.kakao.com/channel/3647846/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a.link_contents"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
+waitUntil = "networkidle"
+onFail = "stale"
