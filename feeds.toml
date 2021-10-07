@@ -43,7 +43,7 @@ waitUntil = "networkidle"
 onFail = "stale"
 
 [ttunttun5]
-title = "kakaoTV ─ 더듬이TV 우당탕탕 안테나"
+title = "kakaoTV ─ 개미는 뚠뚠5"
 url = "https://tv.kakao.com/channel/3875615/video"
 entrySelector = "ul.list_vertical li"
 titleSelector = "strong.tit_item"
@@ -67,6 +67,17 @@ onFail = "stale"
 [runway2]
 title = "kakaoTV ─ 런웨이2"
 url = "https://tv.kakao.com/channel/3843430/video"
+entrySelector = "ul.list_vertical li"
+titleSelector = "strong.tit_item"
+linkSelector = "a.link_contents"
+contentSelector = "span.mark_play"
+imageSelector = "span.thumb_box img.thumb_img"
+waitUntil = "networkidle"
+onFail = "stale"
+
+[ansohee]
+title = "kakaoTV ─ 안소희"
+url = "https://tv.kakao.com/channel/3817543/video"
 entrySelector = "ul.list_vertical li"
 titleSelector = "strong.tit_item"
 linkSelector = "a.link_contents"
