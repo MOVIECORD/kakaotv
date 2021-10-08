@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Oct 2021 08:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Oct 2021 09:06:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -646,6 +646,14 @@
             <pubDate>Thu, 07 Oct 2021 15:31:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:44]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F454d2b3afbd198628a22a0ec325832c5802fae59" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[2회 예고] "11번. 나와 이 X끼야" 손 풀린 파이터들. 진정한 파이트의 시작 (kakaoTV ─ 파이트클럽)]]></title>
+            <link>https://tv.kakao.com/channel/3887627/cliplink/422923931?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3887627/cliplink/422923931?act=clip</guid>
+            <pubDate>Fri, 08 Oct 2021 09:05:04 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F20523ce5ac68d31f589cfc28d0949cb329788e27" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[1회 하이라이트 l 13번(이동원) vs 14번(조준) 첫 격투 l 파이트 클럽 카카오TV 최초공개 (kakaoTV ─ 파이트클럽)]]></title>
