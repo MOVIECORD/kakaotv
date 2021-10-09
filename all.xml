@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Oct 2021 04:07:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Oct 2021 05:05:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2664,6 +2664,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F17dd44c89aa70f03067f22acfb60c18be0d710cf" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[이 뽀짝함 절대 못 보내😭 눈물 아닌 웃음 가득한 마지막 인사❤ (kakaoTV ─ 우수무당 가두심)]]></title>
+            <link>https://tv.kakao.com/channel/3841507/cliplink/422946063?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3841507/cliplink/422946063?act=clip</guid>
+            <pubDate>Sat, 09 Oct 2021 05:05:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:32]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe84ce50926cc5590256c1f389bc1452a69b506c0" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA["난 너랑 있고 싶어" 마지막까지 달달한 김새론X남다름❤ (kakaoTV ─ 우수무당 가두심)]]></title>
             <link>https://tv.kakao.com/channel/3841507/cliplink/422923439?act=clip</link>
             <guid>https://tv.kakao.com/channel/3841507/cliplink/422923439?act=clip</guid>
@@ -2821,7 +2829,7 @@
             <guid>https://tv.kakao.com/channel/3841507/cliplink/422388461?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:56:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:29]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F80c9091c56aa9066110493493034fe1072146557" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F80c9091c56aa9066110493493034fe1072146557" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[9회. 약속해줘, 내 옆에 꼭 있겠다고 (kakaoTV ─ 우수무당 가두심)]]></title>
@@ -2974,14 +2982,6 @@
             <pubDate>Thu, 07 Oct 2021 15:56:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:55]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fefc502d022771c1be148483db31112fa6207160f" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA['그 모든 게 미안했다' 돌아가신 아버지의 진심을 알게 되었다 (kakaoTV ─ 우수무당 가두심)]]></title>
-            <link>https://tv.kakao.com/channel/3841507/cliplink/421820045?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3841507/cliplink/421820045?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 15:56:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F388f621e76b4fce6e5503fb47803a7574d719ad4" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
