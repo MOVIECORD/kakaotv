@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 10:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 11:05:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -646,6 +646,22 @@
             <pubDate>Thu, 07 Oct 2021 15:31:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:44]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F454d2b3afbd198628a22a0ec325832c5802fae59" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[2회 하이라이트 l 기술 총집합. 엘리트 대 엘리트의 미친 게임 l 파이트클럽 카카오TV 최초공개 (kakaoTV ─ 파이트클럽)]]></title>
+            <link>https://tv.kakao.com/channel/3887627/cliplink/422935289?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3887627/cliplink/422935289?act=clip</guid>
+            <pubDate>Mon, 11 Oct 2021 11:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:40]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe448b3e49c6fa63c474f08dc22f2aa1292dd0729" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[2회 하이라이트 l '싸움 한번 졌다고 저 X랄이야' 오직 주먹으로 결정되는 서열 l 파이트클럽 카카오TV 최초공개 (kakaoTV ─ 파이트클럽)]]></title>
+            <link>https://tv.kakao.com/channel/3887627/cliplink/422935475?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3887627/cliplink/422935475?act=clip</guid>
+            <pubDate>Mon, 11 Oct 2021 11:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:57]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0cc079f3e413602ee0574183418e07c9254d4232" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[2회. 싸움 한번 졌다고 X랄 하고 있어 l 파이트 클럽 EP.2 (kakaoTV ─ 파이트클럽)]]></title>
