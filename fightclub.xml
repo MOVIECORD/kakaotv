@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 파이트클럽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Oct 2021 07:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Oct 2021 08:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/422923931?act=clip</guid>
             <pubDate>Fri, 08 Oct 2021 09:05:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F20523ce5ac68d31f589cfc28d0949cb329788e27" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F20523ce5ac68d31f589cfc28d0949cb329788e27" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[1회 하이라이트 l 13번(이동원) vs 14번(조준) 첫 격투 l 파이트 클럽 카카오TV 최초공개]]></title>
