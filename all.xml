@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 13:15:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 14:06:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -388,8 +388,8 @@
             <link>https://tv.kakao.com/channel/3643851/cliplink/422656408?act=clip</link>
             <guid>https://tv.kakao.com/channel/3643851/cliplink/422656408?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>32:56]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd31b9d26a84e4e6005fdb1b149e08758d7df3b17" length="0" type="image/q75/"/>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>32:52]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fffe3d95fab95ca6179af382430bab0a02c97f2ed" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[(선공개) D.P.: 도망친 PD (kakaoTV ─ 찐경규)]]></title>
