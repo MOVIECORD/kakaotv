@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 03:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 04:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/422991852?act=clip</guid>
             <pubDate>Tue, 12 Oct 2021 00:20:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:27]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe55553a6749e92ed66b63f60c9e96eaf6ca2bdab" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F42caa7542c4a20665671a8571c2900dc6362cd33" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[58회. 잘 되면 한 톡 소개❤ - 남자 편 (kakaoTV ─ 톡이나 할까)]]></title>
