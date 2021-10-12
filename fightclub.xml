@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 파이트클럽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 02:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 03:07:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/422975741?act=clip</guid>
             <pubDate>Mon, 11 Oct 2021 10:06:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>30:09]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3626125e56aa4da434aa87646e9dfd90a78e772d" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3626125e56aa4da434aa87646e9dfd90a78e772d" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[2회 예고] "11번. 나와 이 X끼야" 손 풀린 파이터들. 진정한 파이트의 시작]]></title>
