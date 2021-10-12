@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 더듬이TV 우당탕탕 안테나</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 09:06:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 10:06:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -37,7 +37,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/422903352?act=clip</guid>
             <pubDate>Fri, 08 Oct 2021 08:08:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F772d00b5ae5e6a30aad442d64fdf352463c8d966" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F772d00b5ae5e6a30aad442d64fdf352463c8d966" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[에이 야-호♬ 환장의 하모니로 귀에 때려 박는 안테나 즉석 사가!]]></title>
@@ -45,7 +45,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/422903292?act=clip</guid>
             <pubDate>Fri, 08 Oct 2021 08:08:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:51]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe23c065b9c9766edecb8b2e6c87a49a57f0574ef" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe23c065b9c9766edecb8b2e6c87a49a57f0574ef" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[1-3회. 안테나 시무식 : 초간단_사가_만들기_20분_완성.mp4 🎬]]></title>
