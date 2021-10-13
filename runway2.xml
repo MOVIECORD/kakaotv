@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 런웨이2</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 09:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 10:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/422947359?act=clip</guid>
             <pubDate>Sun, 10 Oct 2021 03:06:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:39]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F5d921fece902dfdce37e107fd61f4ec64b60c730" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F5d921fece902dfdce37e107fd61f4ec64b60c730" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[12회. 생선손질의 길]]></title>

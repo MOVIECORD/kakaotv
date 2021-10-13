@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 09:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 10:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/422991063?act=clip</guid>
             <pubDate>Mon, 11 Oct 2021 23:06:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:37]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9ff62a0716e378f54499f9b1ed7c90835e62983b" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9ff62a0716e378f54499f9b1ed7c90835e62983b" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[23회. [선공개] BTS-DYNAMITE 4K 세로직캠 💃🕺 아이돌 댄스 커버 미리보기]]></title>

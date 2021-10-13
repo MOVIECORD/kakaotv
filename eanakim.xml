@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 톡이나 할까</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 09:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 10:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/422991937?act=clip</guid>
             <pubDate>Tue, 12 Oct 2021 00:20:29 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:43]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2d448a1fa0d519edf952db422efb212b337a758c" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2d448a1fa0d519edf952db422efb212b337a758c" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[소개팅에서 "믿고 따라오세요"라고 말해주는 여자를 만났다]]></title>

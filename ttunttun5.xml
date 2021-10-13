@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Oct 2021 09:06:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Oct 2021 10:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423022428?act=clip</guid>
             <pubDate>Tue, 12 Oct 2021 08:08:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:50]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F747f51aeb48b68785b5e41dcdb16da96a7daa382" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F747f51aeb48b68785b5e41dcdb16da96a7daa382" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[펀드 전문가 슈카의 어렵고 긴 펀드 이름 읽기 특강]]></title>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423022316?act=clip</guid>
             <pubDate>Tue, 12 Oct 2021 08:08:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:49]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6b1d62c0b5290eb2d32c30f662ef67b0f0e63a67" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6b1d62c0b5290eb2d32c30f662ef67b0f0e63a67" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[결국 섹터를 선택한 건 바로 나! 펀드 매니저만을 탓할 수 없는 이유]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423022185?act=clip</guid>
             <pubDate>Tue, 12 Oct 2021 08:08:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:26]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdb65f3c07d0c54918e189549dfbcf61f225faff6" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdb65f3c07d0c54918e189549dfbcf61f225faff6" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[5회. 불지옥에서 돌아온 단타야수의 귀환]]></title>
