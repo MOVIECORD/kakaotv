@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 09:06:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 10:06:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -649,11 +649,11 @@
         </item>
         <item>
             <title><![CDATA[[3회 예고] "너도 여기서 끝이야" 무조건 싸워야만 한다. (kakaoTV ─ 파이트클럽)]]></title>
-            <link>https://tv.kakao.com/channel/3887627/cliplink/423080731?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3887627/cliplink/423080731?act=clip</guid>
-            <pubDate>Fri, 15 Oct 2021 09:04:42 GMT</pubDate>
+            <link>https://tv.kakao.com/channel/3887627/cliplink/423111231?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3887627/cliplink/423111231?act=clip</guid>
+            <pubDate>Fri, 15 Oct 2021 10:05:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:01]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff15d9c451e16bef0321d667ee723b1906de54404" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F910b110e1f965734ae16ac600c6f0af12ef2fecc" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[미공개 파이트 풀영상 l 6번(차영훈) vs 10번(로스) (kakaoTV ─ 파이트클럽)]]></title>
