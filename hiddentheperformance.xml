@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 히든 더 퍼포먼스</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 03:06:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 04:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4회. 히.더.퍼가 포포몬쓰 맛집으로 초대합니다💌]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/423101676?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/423101676?act=clip</guid>
+            <pubDate>Fri, 15 Oct 2021 04:07:08 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>26:43]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbea08d6fca8f671d5ca9f8041d43e253ee076d6c" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[이거 이해되는 사람 있나요...? 포뇨와 스누피의 신나는 미술시간😆]]></title>
             <link>https://tv.kakao.com/channel/3879256/cliplink/422923454?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3879256/cliplink/422563244?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:42:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:39]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F885b3ef6b5d84a40148d53040145215185734535" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F885b3ef6b5d84a40148d53040145215185734535" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[2회. ㄴㅇㄱ 상상도 못 한 퍼포머들의 포포몬쓰 대공개!]]></title>
