@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 05:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 06:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2656,6 +2656,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbf5c2f3d2273ac4df8b8dbbcab5aa0749ad45287" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[25회. 아이돌 댄스커버! 댄싱소희가 왔솧💃🕺 | 태민 move, BTS Dynamite, JYP 나로 바꾸자 (kakaoTV ─ 안소희)]]></title>
+            <link>https://tv.kakao.com/channel/3817543/cliplink/423105984?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3817543/cliplink/423105984?act=clip</guid>
+            <pubDate>Sat, 16 Oct 2021 06:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:11]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F60e09b26ae349794f1867dc8eb9a3405fee46ab3" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[24회. 메모해! 체크해! 소희가 제안하는 F/W 5가지 데일리룩 (ft. 랙앤본) 🧥🍂 | 코트, 푸퍼, 데님자켓, 기본템 (kakaoTV ─ 안소희)]]></title>
             <link>https://tv.kakao.com/channel/3817543/cliplink/422991063?act=clip</link>
             <guid>https://tv.kakao.com/channel/3817543/cliplink/422991063?act=clip</guid>
@@ -2813,7 +2821,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/420003809?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:47:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>10:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9448defa83cd8bcd3bcf215048c964694a814d65" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9448defa83cd8bcd3bcf215048c964694a814d65" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[4회. 먹방 한 스푼...힐링 두 스푼...제주도 브이로그🏝😎 | 제주 핫플레이스, 카페, 맛집, 소품샵, 서점 (kakaoTV ─ 안소희)]]></title>
