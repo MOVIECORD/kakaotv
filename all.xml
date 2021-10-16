@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Oct 2021 08:07:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Oct 2021 09:06:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -656,14 +656,6 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F910b110e1f965734ae16ac600c6f0af12ef2fecc" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[미공개 파이트 풀영상 l 6번(차영훈) vs 10번(로스) (kakaoTV ─ 파이트클럽)]]></title>
-            <link>https://tv.kakao.com/channel/3887627/cliplink/423030201?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3887627/cliplink/423030201?act=clip</guid>
-            <pubDate>Tue, 12 Oct 2021 13:13:34 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff831f87de22e5a75c04f9fcc4591e54477747dbf" length="0" type="image/q75/"/>
-        </item>
-        <item>
             <title><![CDATA[미공개 파이트 풀영상 l 2번(이길수) vs 7번(손지훈) (kakaoTV ─ 파이트클럽)]]></title>
             <link>https://tv.kakao.com/channel/3887627/cliplink/423032382?act=clip</link>
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423032382?act=clip</guid>
@@ -672,12 +664,12 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6f831629bb4bceb4376a454a8b89602de37e4cf5" length="0" type="image/q75/"/>
         </item>
         <item>
-            <title><![CDATA[2회 하이라이트 l 기술 총집합. 엘리트 대 엘리트의 미친 게임 l 파이트클럽 카카오TV 최초공개 (kakaoTV ─ 파이트클럽)]]></title>
-            <link>https://tv.kakao.com/channel/3887627/cliplink/422935289?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3887627/cliplink/422935289?act=clip</guid>
-            <pubDate>Mon, 11 Oct 2021 11:04:16 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:40]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe448b3e49c6fa63c474f08dc22f2aa1292dd0729" length="0" type="image/q75/"/>
+            <title><![CDATA[미공개 파이트 풀영상 l 6번(차영훈) vs 10번(로스) (kakaoTV ─ 파이트클럽)]]></title>
+            <link>https://tv.kakao.com/channel/3887627/cliplink/423030201?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3887627/cliplink/423030201?act=clip</guid>
+            <pubDate>Tue, 12 Oct 2021 13:13:34 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff831f87de22e5a75c04f9fcc4591e54477747dbf" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[2회 하이라이트 l '싸움 한번 졌다고 저 X랄이야' 오직 주먹으로 결정되는 서열 l 파이트클럽 카카오TV 최초공개 (kakaoTV ─ 파이트클럽)]]></title>
@@ -686,6 +678,14 @@
             <pubDate>Mon, 11 Oct 2021 11:04:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:57]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0cc079f3e413602ee0574183418e07c9254d4232" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[2회 하이라이트 l 기술 총집합. 엘리트 대 엘리트의 미친 게임 l 파이트클럽 카카오TV 최초공개 (kakaoTV ─ 파이트클럽)]]></title>
+            <link>https://tv.kakao.com/channel/3887627/cliplink/422935289?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3887627/cliplink/422935289?act=clip</guid>
+            <pubDate>Mon, 11 Oct 2021 11:04:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:40]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe448b3e49c6fa63c474f08dc22f2aa1292dd0729" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[2회. 싸움 한번 졌다고 X랄 하고 있어 l 파이트클럽 EP.2 (kakaoTV ─ 파이트클럽)]]></title>
@@ -2308,7 +2308,7 @@
             <link>https://tv.kakao.com/channel/3879256/cliplink/423104195?act=clip</link>
             <guid>https://tv.kakao.com/channel/3879256/cliplink/423104195?act=clip</guid>
             <pubDate>Fri, 15 Oct 2021 09:05:44 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:17]]></content:encoded>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:16]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8d33e906138998d1dae6cb4b7239e6ea2e0fe823" length="0" type="image/q75/"/>
         </item>
         <item>
