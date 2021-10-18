@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Oct 2021 12:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 13:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -646,6 +646,22 @@
             <pubDate>Thu, 07 Oct 2021 15:31:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:33]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F96d635ef9c31e354d74380f1a0ff44431acfa50a" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[미공개 파이트 풀영상 l 4번(이준모) vs 12번(이성원) (kakaoTV ─ 파이트클럽)]]></title>
+            <link>https://tv.kakao.com/channel/3887627/cliplink/423181324?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3887627/cliplink/423181324?act=clip</guid>
+            <pubDate>Mon, 18 Oct 2021 13:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:57]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7573a46f80be0cd2301a2fc0afa0e704a344d5ff" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[미공개 파이트 풀영상 l 1번(설영호) vs 3번(고승범) (kakaoTV ─ 파이트클럽)]]></title>
+            <link>https://tv.kakao.com/channel/3887627/cliplink/423181160?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3887627/cliplink/423181160?act=clip</guid>
+            <pubDate>Mon, 18 Oct 2021 13:14:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:03]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6397656130abdada9ee28fab7b01e800e2edf3a4" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[3회 하이라이트 l 첫날의 후폭풍, 복수혈전 l 파이트클럽 카카오TV 최초공개 (kakaoTV ─ 파이트클럽)]]></title>
