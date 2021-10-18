@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Oct 2021 23:06:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Oct 2021 00:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -646,6 +646,14 @@
             <pubDate>Thu, 07 Oct 2021 15:31:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:33]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F96d635ef9c31e354d74380f1a0ff44431acfa50a" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[3회. 싸움은 거부 할 수 없다. 부상자 속출 l 파이트클럽 EP.3 (kakaoTV ─ 파이트클럽)]]></title>
+            <link>https://tv.kakao.com/channel/3887627/cliplink/423132982?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3887627/cliplink/423132982?act=clip</guid>
+            <pubDate>Mon, 18 Oct 2021 00:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>30:25]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6f12a601e0e19e3314dd4690e330c6ab73908644" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[3회 예고] "너도 여기서 끝이야" 무조건 싸워야만 한다. (kakaoTV ─ 파이트클럽)]]></title>
@@ -2141,7 +2149,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/422991387?act=clip</guid>
             <pubDate>Tue, 12 Oct 2021 08:08:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>43:49]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb8b90389dbd68d7a6f8102d253a66939dc8d794c" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F774184dba08d9c134cffda3c54e7ee09e7671f6b" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[반도체, 전기차, 태양광, 수소... 중국 정부에서 키워줄 분야를 노려라! (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
