@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 08:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 09:07:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -776,6 +776,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4d237657f18b139d21e71145eb645b22e0b42edb" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[💥무편집 풀버전💥 우당탕탕 안테나 로고송 공개➰ 여러분의 원픽은? (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
+            <link>https://tv.kakao.com/channel/3883129/cliplink/423208590?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3883129/cliplink/423208590?act=clip</guid>
+            <pubDate>Tue, 19 Oct 2021 09:05:51 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:51]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fba51e3a0adbadbb6886d05e1fe3369ed79aedeea" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[2-3회. 슈퍼새가수 : 편애가 판을 치는 더러운 심사장? 👿 프로악평러 심사위원들의 💕총애❤를 받은 우승자의 정체는?! 👤 (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
             <link>https://tv.kakao.com/channel/3883129/cliplink/423175640?act=clip</link>
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423175640?act=clip</guid>
@@ -933,7 +941,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/422547681?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:38:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd46004b1e3fd460bd5113190b479e0c9e0790db8" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd46004b1e3fd460bd5113190b479e0c9e0790db8" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[안테나 아티스트 반전 매력 프로젝트! <더듬이TV: 우당탕탕 안테나> 10월 1일 (금) 대공개! (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
