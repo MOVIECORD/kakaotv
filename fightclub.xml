@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 파이트클럽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 09:07:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 10:07:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423181324?act=clip</guid>
             <pubDate>Mon, 18 Oct 2021 13:14:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:57]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7573a46f80be0cd2301a2fc0afa0e704a344d5ff" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7573a46f80be0cd2301a2fc0afa0e704a344d5ff" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[미공개 파이트 풀영상 l 1번(설영호) vs 3번(고승범)]]></title>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423181160?act=clip</guid>
             <pubDate>Mon, 18 Oct 2021 13:14:10 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:03]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6397656130abdada9ee28fab7b01e800e2edf3a4" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6397656130abdada9ee28fab7b01e800e2edf3a4" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[3회 하이라이트 l 첫날의 후폭풍, 복수혈전 l 파이트클럽 카카오TV 최초공개]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423154646?act=clip</guid>
             <pubDate>Mon, 18 Oct 2021 01:59:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:08]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb7c0e1216f24aee88467152a89adba422336f80c" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb7c0e1216f24aee88467152a89adba422336f80c" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[3회. 싸움은 거부 할 수 없다. 부상자 속출 l 파이트클럽 EP.3]]></title>
@@ -37,7 +37,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423132982?act=clip</guid>
             <pubDate>Mon, 18 Oct 2021 00:19:38 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>30:25]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6f12a601e0e19e3314dd4690e330c6ab73908644" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6f12a601e0e19e3314dd4690e330c6ab73908644" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[3회 예고] "너도 여기서 끝이야" 무조건 싸워야만 한다.]]></title>
