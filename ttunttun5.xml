@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 09:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 10:06:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423202070?act=clip</guid>
             <pubDate>Tue, 19 Oct 2021 08:08:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:28]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb8474f7f8745cecd353b4d406f71d9c3bd5a0474" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb8474f7f8745cecd353b4d406f71d9c3bd5a0474" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[카카오가 하루아침에 무너지냐?! 승부사 동민 vs 안전 미주의 대립!]]></title>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423201919?act=clip</guid>
             <pubDate>Tue, 19 Oct 2021 08:08:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:57]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff1df83739fed5723d3ff8bad085aeef9ba915e24" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff1df83739fed5723d3ff8bad085aeef9ba915e24" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[단타여도 인정할 수 밖에 없는 1등의 수익률..!]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423201801?act=clip</guid>
             <pubDate>Tue, 19 Oct 2021 08:08:17 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:46]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F409a6288155f7f65453f21c09352c96033283abf" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F409a6288155f7f65453f21c09352c96033283abf" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[6회. 속보! 신용 거래 개미 등장?!]]></title>

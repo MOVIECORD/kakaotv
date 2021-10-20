@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 톡이나 할까</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 09:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 10:06:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423182270?act=clip</guid>
             <pubDate>Tue, 19 Oct 2021 00:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F85c77a8c89763c645513a129eaff15195238ee18" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F85c77a8c89763c645513a129eaff15195238ee18" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[톡으로 지켜낸 이나의 귀 건강 (feat. 연구광 투머치 토커)]]></title>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423182175?act=clip</guid>
             <pubDate>Tue, 19 Oct 2021 00:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:48]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8b05dac1d96d4e56268a04e72d41b40eabf362f2" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8b05dac1d96d4e56268a04e72d41b40eabf362f2" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[문과 자아와 이과 자아가 격렬히 싸울 때 벌어지는 일]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423182171?act=clip</guid>
             <pubDate>Tue, 19 Oct 2021 00:20:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:40]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc4570983d1a0df612e2eca6209e3b9369f5677ab" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc4570983d1a0df612e2eca6209e3b9369f5677ab" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[59회. 뇌과학자 장동선]]></title>
