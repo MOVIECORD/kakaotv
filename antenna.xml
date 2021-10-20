@@ -4,9 +4,29 @@
         <title>kakaoTV ─ 더듬이TV 우당탕탕 안테나</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Oct 2021 08:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Oct 2021 09:06:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Everything is OK 2 with 우당테나]]></title>
+            <link>https://tv.kakao.com/channel/3883129/livelink/11495582</link>
+            <guid>https://tv.kakao.com/channel/3883129/livelink/11495582</guid>
+            <pubDate>Wed, 20 Oct 2021 09:04:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/channel/3883129/livelink/11495582" class="link_contents">
+    <span class="thumb_box">
+            <em class="ico_kakaotvpc mark_live">LIVE</em>
+    <img onerror="this.src='//t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.daumcdn.net%2Fkakaotv%2F2016%2Fcommon%2Fprofile%2Fthumb_default.jpg'" src="//t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fsection%2Foc%2Fe3f784e3a37044fc99f5f679155d06cc" class="thumb_img" alt="">
+    </span>
+        <span class="item_info">
+        <strong class="tit_item">Everything is OK 2 with 우당테나</strong>
+        <span class="info_append">
+            <span class="ico_kakaotvpc ico_play">재생수 : </span><span>5,880</span>
+            <span class="ico_dott">업로드 날짜 :  </span><span data-date-format="RELATIVE" data-raw-date="2021-10-20 17:40:24">8시간 후</span>
+        </span>
+    </span>
+    </a>]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.daumcdn.net%2Fsection%2Foc%2Fe3f784e3a37044fc99f5f679155d06cc" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[💥무편집 풀버전💥 우당탕탕 안테나 로고송 공개➰ 여러분의 원픽은?]]></title>
             <link>https://tv.kakao.com/channel/3883129/cliplink/423208590?act=clip</link>
@@ -165,7 +185,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/422741986?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:38:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>55:02]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F382713414126289ffff7ff8489c5e30980884407" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F382713414126289ffff7ff8489c5e30980884407" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[보여줄게 완전히 달라진 안테나🎵 <더듬이TV: 우당탕탕 안테나> 10월 1일 (금) 대공개!]]></title>
