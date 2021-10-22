@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Oct 2021 02:03:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Oct 2021 03:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2392,6 +2392,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3911edea366b3477afaeb29868eb1c75336e9a47" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[5회. 왜요? 제가 히.더.퍼 최고의 퍼포머처럼 보이시나요? (kakaoTV ─ 히든 더 퍼포먼스)]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/423283606?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/423283606?act=clip</guid>
+            <pubDate>Fri, 22 Oct 2021 03:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>34:20]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd1bc0345b734e592bc57fa14cc4eb818bdc7e2da" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[호킵이 있는 곳이 곧 무대✨ (kakaoTV ─ 히든 더 퍼포먼스)]]></title>
             <link>https://tv.kakao.com/channel/3879256/cliplink/423180600?act=clip</link>
             <guid>https://tv.kakao.com/channel/3879256/cliplink/423180600?act=clip</guid>
@@ -2549,7 +2557,7 @@
             <guid>https://tv.kakao.com/channel/3879256/cliplink/422563340?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:42:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:29]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F63278fdeef6699d966f294dbc85723c34e8c84d9" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F63278fdeef6699d966f294dbc85723c34e8c84d9" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[Full Clip] 빅맨 - Get Lucky (feat. Pharrell Williams) (kakaoTV ─ 히든 더 퍼포먼스)]]></title>
