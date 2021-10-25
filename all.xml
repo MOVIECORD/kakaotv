@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Oct 2021 23:05:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 00:21:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -646,6 +646,14 @@
             <pubDate>Thu, 07 Oct 2021 15:31:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:00]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3ef3a0d979fe4308ede9a164ebaa14306769ba5f" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[4회. 폭력사태. 이제 너흰 다 뒤지는거야 l 파이트클럽 EP.4 (kakaoTV ─ 파이트클럽)]]></title>
+            <link>https://tv.kakao.com/channel/3887627/cliplink/423342655?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3887627/cliplink/423342655?act=clip</guid>
+            <pubDate>Mon, 25 Oct 2021 00:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>33:34]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F392dd53056ea91d7aac0c832a481b9fb6f1cbe8b" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[4회 예고] '싸우러 왔지, 놀러 온 게 아니잖아' 내부 분열의 시작? (kakaoTV ─ 파이트클럽)]]></title>
