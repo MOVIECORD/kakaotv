@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 09:06:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 10:07:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -333,7 +333,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423230941?act=clip</guid>
             <pubDate>Wed, 20 Oct 2021 08:06:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe4645ac2be90e1e908b5d25a2e2c4c8fa4934b0a" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe4645ac2be90e1e908b5d25a2e2c4c8fa4934b0a" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[서장훈의 재력에 대한 팩트, 지금 밝혀드립니다! (kakaoTV ─ 찐경규)]]></title>
@@ -341,7 +341,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423230879?act=clip</guid>
             <pubDate>Wed, 20 Oct 2021 08:06:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:49]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2e484e9a6997543153bb7ed16eec3d36595ce5d8" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2e484e9a6997543153bb7ed16eec3d36595ce5d8" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[수다만 떨어도 시청률 나오겠다ㅋ 싶어서 시작하게 된 방송이 대박났다?! (kakaoTV ─ 찐경규)]]></title>
@@ -349,7 +349,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423230776?act=clip</guid>
             <pubDate>Wed, 20 Oct 2021 08:06:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:46]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdab69ac054fb627560ca8ac6f5e64c2660d69ef9" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdab69ac054fb627560ca8ac6f5e64c2660d69ef9" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[57회. 취중찐담 with 서장훈 (kakaoTV ─ 찐경규)]]></title>
@@ -357,7 +357,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423194833?act=clip</guid>
             <pubDate>Wed, 20 Oct 2021 08:06:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>22:43]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fce61d78af2d714296e19b06c336fb3f6c24969ad" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fce61d78af2d714296e19b06c336fb3f6c24969ad" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[★잠 안올 때 보면 졸린 영상★ 잠 들기 위해 방송하는 사람들★ (kakaoTV ─ 찐경규)]]></title>
@@ -677,7 +677,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423212731?act=clip</guid>
             <pubDate>Wed, 20 Oct 2021 03:05:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>10:34]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb57a5c74eb79c5ea0be3f251baf7f7a28b1c0b1b" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb57a5c74eb79c5ea0be3f251baf7f7a28b1c0b1b" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[미공개 파이트 풀영상 l 4번(이준모) vs 12번(이성원) (kakaoTV ─ 파이트클럽)]]></title>
