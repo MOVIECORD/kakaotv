@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 파이트클럽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Oct 2021 07:07:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Oct 2021 08:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423342655?act=clip</guid>
             <pubDate>Mon, 25 Oct 2021 00:19:41 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>33:34]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F392dd53056ea91d7aac0c832a481b9fb6f1cbe8b" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F392dd53056ea91d7aac0c832a481b9fb6f1cbe8b" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[4회 예고] '싸우러 왔지, 놀러 온 게 아니잖아' 내부 분열의 시작?]]></title>
