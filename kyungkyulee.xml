@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 찐경규</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Oct 2021 09:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Oct 2021 10:06:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[<취중찐송> 🎵 김준현 - 외로운 사람들]]></title>
+            <link>https://tv.kakao.com/channel/3643851/cliplink/423402326?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3643851/cliplink/423402326?act=clip</guid>
+            <pubDate>Wed, 27 Oct 2021 10:04:46 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:12]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7ffb821f4e76cf25ac17df25cb5446f699bfcf90" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[문세윤 vs 히밥 vs 이영자? 김준현이 인정하는 최고의 먹방 전문가들 특징]]></title>
             <link>https://tv.kakao.com/channel/3643851/cliplink/423402984?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/422656408?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:31:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>32:52]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fffe3d95fab95ca6179af382430bab0a02c97f2ed" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fffe3d95fab95ca6179af382430bab0a02c97f2ed" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[(선공개) D.P.: 도망친 PD]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 07 Oct 2021 15:31:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:46]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fad340708f487d31b644eca38cdc032737b225672" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[경규가 한번 먹어보겠습니다. 삼겹살 말고 오겹살로♥]]></title>
-            <link>https://tv.kakao.com/channel/3643851/cliplink/421778258?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3643851/cliplink/421778258?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 15:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:25]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ffe9e9c4f1207baf015d8a7b3b9e94a5c97148c83" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
