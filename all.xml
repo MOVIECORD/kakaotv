@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 09:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 10:07:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -341,7 +341,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423402984?act=clip</guid>
             <pubDate>Wed, 27 Oct 2021 08:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3161869d207cd7bf5c1118fe2e73302bf528e0ac" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3161869d207cd7bf5c1118fe2e73302bf528e0ac" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[(침샘주의) 식은 음식도 살리는 먹방의 신 김준현의 '맛있게 먹는 법' 강의 (kakaoTV ─ 찐경규)]]></title>
@@ -349,7 +349,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423402908?act=clip</guid>
             <pubDate>Wed, 27 Oct 2021 08:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:19]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6f593e07083c8da0b801b7c78f3aa564735d0533" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6f593e07083c8da0b801b7c78f3aa564735d0533" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[놀고 있는 MC와 땀흘리는 게스트;; 오늘부터 찐경규 아니고 (살)찐준현^^ (kakaoTV ─ 찐경규)]]></title>
@@ -357,7 +357,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423402771?act=clip</guid>
             <pubDate>Wed, 27 Oct 2021 08:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:59]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe3dd73bb0222efcf0c9347e78512acc7465691a1" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe3dd73bb0222efcf0c9347e78512acc7465691a1" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[58회. 취중찐담 with 김준현 (kakaoTV ─ 찐경규)]]></title>
@@ -365,7 +365,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423382574?act=clip</guid>
             <pubDate>Wed, 27 Oct 2021 08:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>26:24]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fecaea5d8e385abd508767d7207b5f4f3ad531478" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fecaea5d8e385abd508767d7207b5f4f3ad531478" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[세상 말 많은 TMT 서장훈 덕분에 분량 제대로 뽑았다^^! (kakaoTV ─ 찐경규)]]></title>
