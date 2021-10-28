@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 톡이나 할까</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Oct 2021 02:21:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Oct 2021 03:07:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423371867?act=clip</guid>
             <pubDate>Tue, 26 Oct 2021 00:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:17]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc6e9afa9b32f940108854eca88e233f532663355" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc6e9afa9b32f940108854eca88e233f532663355" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA["이선희 선생님께 꼭 보여드려야겠어요" 작사가 이나에게 인정받은 수어 무대!]]></title>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423371703?act=clip</guid>
             <pubDate>Tue, 26 Oct 2021 00:18:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:36]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9914ea6c38a1d01beea6fff0694d95d239d8fd71" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9914ea6c38a1d01beea6fff0694d95d239d8fd71" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[춤을 소름 끼치게 못 춰서 만든 농인 예술인들의 꿈의 회사!]]></title>
