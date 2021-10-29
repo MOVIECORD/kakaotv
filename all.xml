@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Oct 2021 03:06:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Oct 2021 04:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -832,6 +832,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4d237657f18b139d21e71145eb645b22e0b42edb" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[(단독공개) 안테나 아티스트 고음 비결 드디어 밝혀짐;;; (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
+            <link>https://tv.kakao.com/channel/3883129/cliplink/423470666?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3883129/cliplink/423470666?act=clip</guid>
+            <pubDate>Fri, 29 Oct 2021 04:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:14]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc8b2a32b6002f3f8ddfe5d9a0349e3e7b48ff65b" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA["니네.. 알고는 있었지만 진짜 X친놈들 같아" 유희열 대표도 인정한 안테나의 광기＠_@ (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
             <link>https://tv.kakao.com/channel/3883129/cliplink/423358387?act=clip</link>
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423358387?act=clip</guid>
@@ -989,7 +997,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/422895844?act=clip</guid>
             <pubDate>Fri, 08 Oct 2021 08:08:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:23]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7f9c415fa2e6631c7cc9d6c5f92d1a44c0d1d859" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7f9c415fa2e6631c7cc9d6c5f92d1a44c0d1d859" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[한번에 납득되는 안테나의 유느님 영입 이유^^ (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
