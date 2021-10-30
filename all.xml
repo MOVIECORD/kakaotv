@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Oct 2021 08:07:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Oct 2021 09:06:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -648,6 +648,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fad340708f487d31b644eca38cdc032737b225672" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[[5회 예고] "아 시X X같네" 모든 게 꼬여버렸다 (kakaoTV ─ 파이트클럽)]]></title>
+            <link>https://tv.kakao.com/channel/3887627/cliplink/423485810?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3887627/cliplink/423485810?act=clip</guid>
+            <pubDate>Sat, 30 Oct 2021 09:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F960edcfa0cf2454fdef49a25a274766d03683adc" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[미공개 파이트 풀영상 l 3번(고승범) vs 9번(이장한) (kakaoTV ─ 파이트클럽)]]></title>
             <link>https://tv.kakao.com/channel/3887627/cliplink/423363797?act=clip</link>
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423363797?act=clip</guid>
@@ -805,7 +813,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/422819560?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:36:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>26:29]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F1e21b28994ae88760b9c959f11a8baf9eefae180" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F1e21b28994ae88760b9c959f11a8baf9eefae180" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[참가자 일부 공개 + 룰 설명 l 파이트클럽 EP.0 (ver.3) 카카오TV 최초공개 (kakaoTV ─ 파이트클럽)]]></title>
