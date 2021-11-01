@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 00:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 01:53:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -648,6 +648,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fad340708f487d31b644eca38cdc032737b225672" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[5회 하이라이트 l 진격의 '상' 등급, 두번 째 승급자의 탄생 (kakaoTV ─ 파이트클럽)]]></title>
+            <link>https://tv.kakao.com/channel/3887627/cliplink/423526037?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3887627/cliplink/423526037?act=clip</guid>
+            <pubDate>Mon, 01 Nov 2021 01:51:54 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:52]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff95daf1ad451b3dea6f38406b6a47f0bb89f1091" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[5회. 마지막 남은 한자리, 배신의 연속 l 파이트클럽 EP.5 (kakaoTV ─ 파이트클럽)]]></title>
             <link>https://tv.kakao.com/channel/3887627/cliplink/423526534?act=clip</link>
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423526534?act=clip</guid>
@@ -805,7 +813,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/422923931?act=clip</guid>
             <pubDate>Fri, 08 Oct 2021 09:05:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:47]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F20523ce5ac68d31f589cfc28d0949cb329788e27" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F20523ce5ac68d31f589cfc28d0949cb329788e27" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[1회 하이라이트 l 13번(이동원) vs 14번(조준) 첫 격투 l 파이트클럽 카카오TV 최초공개 (kakaoTV ─ 파이트클럽)]]></title>
@@ -2365,7 +2373,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423355231?act=clip</guid>
             <pubDate>Tue, 26 Oct 2021 08:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>37:25]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fefcc47000e2c85e90efd8086d340b2bd8c883c1c" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa32acce205cf915de9944598d7dd9adc73190177" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[인턴이 사고쳤다! 급등주 풀미수 달린 딘딘팀...!!ㄷㄷ (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
