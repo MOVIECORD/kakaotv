@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 파이트클럽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 09:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 10:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423485810?act=clip</guid>
             <pubDate>Sat, 30 Oct 2021 09:04:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:58]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F960edcfa0cf2454fdef49a25a274766d03683adc" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F960edcfa0cf2454fdef49a25a274766d03683adc" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[미공개 파이트 풀영상 l 3번(고승범) vs 9번(이장한)]]></title>

@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Nov 2021 09:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Nov 2021 10:07:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/423438972?act=clip</guid>
             <pubDate>Fri, 29 Oct 2021 00:19:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>08:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6f47cf54f3987077179dcfb258eb295022c01c68" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6f47cf54f3987077179dcfb258eb295022c01c68" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[26회. Behind. 댄스 커버 비하인드.zipㅣ JYP 방문, 현장 비하인드, 안무팀 연습, BTS, 태민, JYP]]></title>
