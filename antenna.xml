@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 더듬이TV 우당탕탕 안테나</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 09:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 10:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423552010?act=clip</guid>
             <pubDate>Mon, 01 Nov 2021 08:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff47cd7d73bf80e66fa0fdc8cfbcfb224ecadf7ea" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff47cd7d73bf80e66fa0fdc8cfbcfb224ecadf7ea" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[찐친 이장원과 노년에 논현(?)에 페퍼톤스 박물관을 짓는 재평의 소박한 꿈^^]]></title>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423551880?act=clip</guid>
             <pubDate>Mon, 01 Nov 2021 08:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:56]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3bbda507ba02eaa1d9df9fc4119009806ff3442c" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3bbda507ba02eaa1d9df9fc4119009806ff3442c" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[5-1회. 행운을 빌어요 : [단독📸] 충격🤭, 페퍼톤스👬 22년만에 첫 캠핑 🏕떠나...]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423526490?act=clip</guid>
             <pubDate>Mon, 01 Nov 2021 08:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>22:17]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0483712874a08b546dbe979c20087d4aaf8e2c92" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0483712874a08b546dbe979c20087d4aaf8e2c92" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[입으로 운동하던 헬린이 정승환의 장렬한 최후★]]></title>

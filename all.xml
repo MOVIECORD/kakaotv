@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Nov 2021 09:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Nov 2021 10:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -653,7 +653,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423526037?act=clip</guid>
             <pubDate>Mon, 01 Nov 2021 01:51:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:52]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff95daf1ad451b3dea6f38406b6a47f0bb89f1091" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff95daf1ad451b3dea6f38406b6a47f0bb89f1091" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[5회. 마지막 남은 한자리, 배신의 연속 l 파이트클럽 EP.5 (kakaoTV ─ 파이트클럽)]]></title>
@@ -661,7 +661,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423526534?act=clip</guid>
             <pubDate>Mon, 01 Nov 2021 00:21:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>29:38]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F78e5ba5485bd9af00c0ac13aa2d997c2cc6a27d4" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F78e5ba5485bd9af00c0ac13aa2d997c2cc6a27d4" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[5회 예고] "아 시X X같네" 모든 게 꼬여버렸다 (kakaoTV ─ 파이트클럽)]]></title>
@@ -861,7 +861,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423552010?act=clip</guid>
             <pubDate>Mon, 01 Nov 2021 08:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:49]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff47cd7d73bf80e66fa0fdc8cfbcfb224ecadf7ea" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff47cd7d73bf80e66fa0fdc8cfbcfb224ecadf7ea" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[찐친 이장원과 노년에 논현(?)에 페퍼톤스 박물관을 짓는 재평의 소박한 꿈^^ (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
@@ -869,7 +869,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423551880?act=clip</guid>
             <pubDate>Mon, 01 Nov 2021 08:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:56]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3bbda507ba02eaa1d9df9fc4119009806ff3442c" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3bbda507ba02eaa1d9df9fc4119009806ff3442c" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[5-1회. 행운을 빌어요 : [단독📸] 충격🤭, 페퍼톤스👬 22년만에 첫 캠핑 🏕떠나... (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
@@ -877,7 +877,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423526490?act=clip</guid>
             <pubDate>Mon, 01 Nov 2021 08:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>22:17]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0483712874a08b546dbe979c20087d4aaf8e2c92" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0483712874a08b546dbe979c20087d4aaf8e2c92" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[입으로 운동하던 헬린이 정승환의 장렬한 최후★ (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
