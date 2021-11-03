@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 더듬이TV 우당탕탕 안테나</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 10:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 11:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나만의 리틀 장원이에게 보내는 신재평의 결혼 축가 '행운을 빌어요' Full ver.]]></title>
+            <link>https://tv.kakao.com/channel/3883129/cliplink/423560234?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3883129/cliplink/423560234?act=clip</guid>
+            <pubDate>Wed, 03 Nov 2021 11:05:10 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:05]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F5928885a082c409108f7706e771bb3096e626cc1" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[초심 두 번 찾았다간 큰일 날 것 같은 그 시절 페퍼톤스의 귀환! (feat. 행운을 빌어요 라이브)]]></title>
             <link>https://tv.kakao.com/channel/3883129/cliplink/423552010?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423105035?act=clip</guid>
             <pubDate>Fri, 15 Oct 2021 08:06:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:55]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F43c54b9c64e8b611d476dcf5955d4c4f552795d2" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F43c54b9c64e8b611d476dcf5955d4c4f552795d2" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[2-2회. 슈퍼새가수 : 윤상이 말했다, "음악🎵🎶이란 무얼까...?"🤔]]></title>
