@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 09:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 10:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423579141?act=clip</guid>
             <pubDate>Tue, 02 Nov 2021 08:08:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:01]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8cefaa6f414d6c2d61d91da4e63d6dae6f16e226" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8cefaa6f414d6c2d61d91da4e63d6dae6f16e226" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[코인의 가치를 인정하는 김프로가 실제로 투자를 하지는 않는 이유]]></title>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423578962?act=clip</guid>
             <pubDate>Tue, 02 Nov 2021 08:08:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:16]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F031a506a2f6a69c222630e16ff74edc8750209c5" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F031a506a2f6a69c222630e16ff74edc8750209c5" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[이제 2030년까지 버티면 결과는 둘 중 하나! 50억 또는 0원]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423578788?act=clip</guid>
             <pubDate>Tue, 02 Nov 2021 08:08:39 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:17]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F19f4530aaefc0f52cbdb82a7947b80203a2f2177" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F19f4530aaefc0f52cbdb82a7947b80203a2f2177" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[8회. 뚠뚠 깐부들의 극비 투자 모임]]></title>

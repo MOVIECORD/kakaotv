@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 톡이나 할까</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Nov 2021 09:07:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Nov 2021 10:07:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423564455?act=clip</guid>
             <pubDate>Tue, 02 Nov 2021 00:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:02]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbd1cc3891b1ebd263d4bbadf2426048a75822b43" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbd1cc3891b1ebd263d4bbadf2426048a75822b43" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[싱크가 왜 다 잘 맞지? 방탄도 찰떡같이 어울리는 임창정 신곡 대방출!!]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423564374?act=clip</guid>
             <pubDate>Tue, 02 Nov 2021 00:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:43]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F23dea50adecdb2e97cbc3b9db434d54d264a3bf7" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F23dea50adecdb2e97cbc3b9db434d54d264a3bf7" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[저 팬 없어요~~ 지인들만 있지^^ 신곡 유출도 걱정 없는 임창정의 팬 소통법]]></title>
@@ -37,7 +37,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423564294?act=clip</guid>
             <pubDate>Tue, 02 Nov 2021 00:19:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F88813eaf93fad7f1413743dc3ecadbfb7ba17929" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F88813eaf93fad7f1413743dc3ecadbfb7ba17929" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[눈빛,,실력,,깜찍함까지! 아이돌의 필수 조건을 고루 갖춘 아티스트 발견!!]]></title>
