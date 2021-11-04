@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Nov 2021 09:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Nov 2021 10:07:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -333,7 +333,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423598970?act=clip</guid>
             <pubDate>Wed, 03 Nov 2021 08:06:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe88c0688b98ca565254bf102e2649c725b505702" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe88c0688b98ca565254bf102e2649c725b505702" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[과연 라면의 아버지 이경규는 본인이 개발한 라면을 찾아낼 수 있을까!? (kakaoTV ─ 찐경규)]]></title>
@@ -341,7 +341,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423598529?act=clip</guid>
             <pubDate>Wed, 03 Nov 2021 08:06:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:42]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbd1254d8010303c659eabe78603b051b4f6cdb7f" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbd1254d8010303c659eabe78603b051b4f6cdb7f" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[59회. 모델의 품격 (kakaoTV ─ 찐경규)]]></title>
