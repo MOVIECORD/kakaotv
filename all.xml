@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Nov 2021 09:06:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Nov 2021 10:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -349,7 +349,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423577767?act=clip</guid>
             <pubDate>Wed, 03 Nov 2021 08:06:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>26:56]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0ef76a2c39c82c96bd691c47363c33cd2aa4fe48" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0ef76a2c39c82c96bd691c47363c33cd2aa4fe48" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<취중찐송> 🎵 김준현 - 외로운 사람들 (kakaoTV ─ 찐경규)]]></title>
