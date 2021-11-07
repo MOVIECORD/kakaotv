@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 런웨이2</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Nov 2021 02:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Nov 2021 03:06:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[17회. 성대모사의 길(하)]]></title>
+            <link>https://tv.kakao.com/channel/3843430/cliplink/423694652?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3843430/cliplink/423694652?act=clip</guid>
+            <pubDate>Sun, 07 Nov 2021 03:06:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:26]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0e34c3296e6a96c36ecc257b870e0d4edb89a0da" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[16회. 성대모사의 길]]></title>
             <link>https://tv.kakao.com/channel/3843430/cliplink/423502609?act=clip</link>
