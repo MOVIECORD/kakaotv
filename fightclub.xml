@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 파이트클럽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Nov 2021 02:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Nov 2021 03:07:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423713827?act=clip</guid>
             <pubDate>Mon, 08 Nov 2021 00:20:20 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>30:14]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Faf107f02793b189ac78ed2af60656ab3c0c7644f" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Faf107f02793b189ac78ed2af60656ab3c0c7644f" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[5회 하이라이트 l 진격의 '상' 등급, 두번 째 승급자의 탄생]]></title>
