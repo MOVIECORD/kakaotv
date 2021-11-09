@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 05:06:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 06:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -885,7 +885,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423743955?act=clip</guid>
             <pubDate>Mon, 08 Nov 2021 08:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:36]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd12d2bc2d91332a26df06571a63fec0969159b8b" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd12d2bc2d91332a26df06571a63fec0969159b8b" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[벌써 도착했다구?! 레이싱카 1일차.. 천재 카레이서의 등장★ (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
