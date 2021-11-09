@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 09:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 10:06:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -653,7 +653,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423747316?act=clip</guid>
             <pubDate>Mon, 08 Nov 2021 13:14:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:53]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7a57826fc6ecf7883aae29376b047d1150151fd0" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7a57826fc6ecf7883aae29376b047d1150151fd0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[최종회 하이라이트 l 마지막 승부, 마지막 승자. (kakaoTV ─ 파이트클럽)]]></title>
@@ -893,7 +893,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423742172?act=clip</guid>
             <pubDate>Mon, 08 Nov 2021 08:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe470c0f229568f77e0c38f70cc5441cbe852cb19" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe470c0f229568f77e0c38f70cc5441cbe852cb19" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[실전 카트라이더?! 스피드 레이싱에 급상승하는 적재 & 이진아의 심박수!! (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
@@ -901,7 +901,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423742107?act=clip</guid>
             <pubDate>Mon, 08 Nov 2021 08:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:11]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F85c5d36c8bd7d8f5e2527327a3a852fd894063ff" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F85c5d36c8bd7d8f5e2527327a3a852fd894063ff" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[★방송 최초 공개★ 페퍼톤스 미공개 축가 Full ver. (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
@@ -909,7 +909,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423678611?act=clip</guid>
             <pubDate>Sat, 06 Nov 2021 03:05:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:58]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ffb3bad9966fddb9e7da93219e12d53dd5402ad47" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ffb3bad9966fddb9e7da93219e12d53dd5402ad47" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA['장원이 널 위해 노래를 부를거야..' 순식간에 '유희열화' 된 재평의 축하 편지♨♨ (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
@@ -917,7 +917,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423665869?act=clip</guid>
             <pubDate>Fri, 05 Nov 2021 08:06:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe9489573466042bd0db6983527c7c3c347f5dc3c" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe9489573466042bd0db6983527c7c3c347f5dc3c" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[아 맞다.. 안테나 뮤지션 회사였지..! NO 우당탕탕! YES 고퀄 라이브♥ (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
@@ -925,7 +925,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423665811?act=clip</guid>
             <pubDate>Fri, 05 Nov 2021 08:06:59 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:01]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F5a4814c174651a8d7b6b7b1301cfe460334c1293" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F5a4814c174651a8d7b6b7b1301cfe460334c1293" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[5-2회. 행운을 빌어요 : 🍀끝없는 캠핑🏕🔥만이 펩톤과 함께이길🤞🏻 (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
@@ -3029,7 +3029,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/423694652?act=clip</guid>
             <pubDate>Sun, 07 Nov 2021 03:06:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:26]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0e34c3296e6a96c36ecc257b870e0d4edb89a0da" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0e34c3296e6a96c36ecc257b870e0d4edb89a0da" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[16회. 성대모사의 길 (kakaoTV ─ 런웨이2)]]></title>
