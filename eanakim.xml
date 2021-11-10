@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 톡이나 할까</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Nov 2021 09:07:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Nov 2021 10:07:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423757254?act=clip</guid>
             <pubDate>Tue, 09 Nov 2021 00:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:44]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0dfbff759c342bc62f19707a522da4c37c62cc73" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0dfbff759c342bc62f19707a522da4c37c62cc73" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[꿈은 크게 가지랬으면서, 이제 와선 눈이 너무 높다고? 🤬🤬 (feat. 취준생, 공무원)]]></title>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423757168?act=clip</guid>
             <pubDate>Tue, 09 Nov 2021 00:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:41]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F728a2454e3c76aa2e7277dcd60efb37a84eb9320" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F728a2454e3c76aa2e7277dcd60efb37a84eb9320" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[출근 후 업무가 '양치하기, 머리감기, 산책하기'인 회사]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423757116?act=clip</guid>
             <pubDate>Tue, 09 Nov 2021 00:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:28]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fee6c43149c5fe02012b854d55ddad0cf73b35aa8" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fee6c43149c5fe02012b854d55ddad0cf73b35aa8" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[62회. 무업 청년 커뮤니티 <니트생활자> 너👉 백수? 야 나두 백수!😉]]></title>
@@ -37,7 +37,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423744057?act=clip</guid>
             <pubDate>Tue, 09 Nov 2021 00:19:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>25:38]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6d5e8300c0d2ae70fa1212e7759393c7a63a4cd2" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6d5e8300c0d2ae70fa1212e7759393c7a63a4cd2" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[61회. 임창정]]></title>
