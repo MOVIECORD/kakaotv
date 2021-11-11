@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 찐경규</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 09:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 10:07:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423796066?act=clip</guid>
             <pubDate>Wed, 10 Nov 2021 08:07:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:22]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F557aabafbfee7ddf26e6615d7a2d7409f058c1f7" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F557aabafbfee7ddf26e6615d7a2d7409f058c1f7" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[단돈 40만원에 이승철 OST 캐스팅 하는 법 (feat. 복수혈전)]]></title>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423795937?act=clip</guid>
             <pubDate>Wed, 10 Nov 2021 08:07:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:53]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa556947dd543bfbe1f6baac3e808c6738002c436" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa556947dd543bfbe1f6baac3e808c6738002c436" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[60회. 취중찐담 with 이승철]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423766154?act=clip</guid>
             <pubDate>Wed, 10 Nov 2021 08:07:07 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>34:55]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F91a9caf24d0682f0814ba6f96239cc8cc7b8e2e3" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F91a9caf24d0682f0814ba6f96239cc8cc7b8e2e3" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[※반전주의※ 못 맞히면 광고 잘리는 자본주의 입맛 테스트ㅋㅋㅋ]]></title>
