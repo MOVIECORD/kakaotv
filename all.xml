@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 09:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 10:08:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -917,7 +917,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423828251?act=clip</guid>
             <pubDate>Fri, 12 Nov 2021 08:08:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:48]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F552a56039bc528c17446afe985096da651cffb2b" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F552a56039bc528c17446afe985096da651cffb2b" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[괜히 겁먹었네! 겁 상실과 동시에 최고 속도 160km 돌파한 이진아!!ㄷㄷ (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
@@ -925,7 +925,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423828189?act=clip</guid>
             <pubDate>Fri, 12 Nov 2021 08:08:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:23]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F16067051c79b871a77706008eb34c4617d503f25" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F16067051c79b871a77706008eb34c4617d503f25" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[6-2회. 우당탕탕 레이싱 : 🚖승부욕에 빠진 게 죄는 아니잖아...!!💛 멈추는 법을 모르는 스피드 ☄광들의 마지막 RACE 대결! 🏁 (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
@@ -933,7 +933,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423825401?act=clip</guid>
             <pubDate>Fri, 12 Nov 2021 08:08:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>16:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdecceed4e66270c55534a416e1866e6c2677cbe5" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdecceed4e66270c55534a416e1866e6c2677cbe5" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[6-1회. 우당탕탕 레이싱 : "👤선생님, 저랑 레이싱 한 판 하시겠습니까?"🏁 안테나 레이서 👨‍🎤적재X이진아👩‍🎤의 숨겨왔던 질주 본능🏎💨 (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
