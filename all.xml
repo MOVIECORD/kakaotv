@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 23:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 00:21:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -648,6 +648,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8dd74fedcab16b31eb2b01d2bbef718cca71a30c" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[7회. 세계랭킹 4위가 보는 파이트 클럽 최고의 파이터.. !? l 정찬성 코멘터리 (kakaoTV ─ 파이트클럽)]]></title>
+            <link>https://tv.kakao.com/channel/3887627/cliplink/423897679?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3887627/cliplink/423897679?act=clip</guid>
+            <pubDate>Mon, 15 Nov 2021 00:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>25:06]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa891359841db802dc71731cd56454e2bb916dfe2" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[미공개 파이트 풀영상 l 6번(차영훈) vs 12번(이성원) (kakaoTV ─ 파이트클럽)]]></title>
             <link>https://tv.kakao.com/channel/3887627/cliplink/423747316?act=clip</link>
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423747316?act=clip</guid>
@@ -805,7 +813,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423030201?act=clip</guid>
             <pubDate>Tue, 12 Oct 2021 13:13:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff831f87de22e5a75c04f9fcc4591e54477747dbf" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff831f87de22e5a75c04f9fcc4591e54477747dbf" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[2회 하이라이트 l '싸움 한번 졌다고 저 X랄이야' 오직 주먹으로 결정되는 서열 l 파이트클럽 카카오TV 최초공개 (kakaoTV ─ 파이트클럽)]]></title>
