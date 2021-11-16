@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 더듬이TV 우당탕탕 안테나</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 09:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 10:07:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[댄스가수가 꿈이었던(?) 권진아가 안테나에서 쓴 자작곡 <여행가> Full ver.]]></title>
+            <link>https://tv.kakao.com/channel/3883129/cliplink/423962856?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3883129/cliplink/423962856?act=clip</guid>
+            <pubDate>Tue, 16 Nov 2021 10:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fcd6154e9d44d8f68c82b0dbe858ca9c84de26227" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[춤추고 노래할 줄 알았던 진아에게 작곡을 가르친 대표님..! 넌 내게 수치를 안겨줬어..!]]></title>
             <link>https://tv.kakao.com/channel/3883129/cliplink/423928087?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423440270?act=clip</guid>
             <pubDate>Fri, 29 Oct 2021 08:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>20:21]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Feb32d1a7bf1d9da61cd44cb17d0a7c82f1a5ac51" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Feb32d1a7bf1d9da61cd44cb17d0a7c82f1a5ac51" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[(단독공개) 안테나 아티스트 고음 비결 드디어 밝혀짐;;;]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Fri, 08 Oct 2021 08:08:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:33]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F772d00b5ae5e6a30aad442d64fdf352463c8d966" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[에이 야-호♬ 환장의 하모니로 귀에 때려 박는 안테나 즉석 사가!]]></title>
-            <link>https://tv.kakao.com/channel/3883129/cliplink/422903292?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3883129/cliplink/422903292?act=clip</guid>
-            <pubDate>Fri, 08 Oct 2021 08:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:51]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe23c065b9c9766edecb8b2e6c87a49a57f0574ef" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
