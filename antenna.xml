@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 더듬이TV 우당탕탕 안테나</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 09:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 10:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423928087?act=clip</guid>
             <pubDate>Mon, 15 Nov 2021 08:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:00]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4399168355bfaed79593cb2c5171cbe37171d595" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4399168355bfaed79593cb2c5171cbe37171d595" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[매뉴얼이 없었던 희열이 투머치로 준 첫 숙소 클라쓰..bb]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423928081?act=clip</guid>
             <pubDate>Mon, 15 Nov 2021 08:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:29]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdc9fe73cc7aec793d21e6269fbd151b2035f0abb" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdc9fe73cc7aec793d21e6269fbd151b2035f0abb" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[7-1회. 밤을 타는 밤 : 🌃"우리는 이걸 토크 지옥👹이라 부르기로 했어요..." 희열카는 토크를 싣고 🗣👥💬]]></title>
@@ -37,7 +37,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423897812?act=clip</guid>
             <pubDate>Mon, 15 Nov 2021 08:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>25:03]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F09f418ff3ecfdc18d07e0934ad7f79b256655a82" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F09f418ff3ecfdc18d07e0934ad7f79b256655a82" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[거친(?)말 내뱉는 이진아 vs 적재 선물 내기 우당탕탕 레이싱의 승자는?!]]></title>

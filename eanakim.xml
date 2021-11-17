@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 톡이나 할까</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Nov 2021 09:06:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Nov 2021 10:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423936742?act=clip</guid>
             <pubDate>Tue, 16 Nov 2021 00:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:08]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F98cab919b15f6033640bafacc68e7521e8fb3c98" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F98cab919b15f6033640bafacc68e7521e8fb3c98" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA['못해도 괜찮아!' 책임감 있는 어른이 된 김이나의 메세지]]></title>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423936644?act=clip</guid>
             <pubDate>Tue, 16 Nov 2021 00:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:31]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F77f885cc537d6c921fbb9578df8a339181db8216" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F77f885cc537d6c921fbb9578df8a339181db8216" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[김이나가 '톡이나' 하면서 가장 뿌듯했던 순간? = 인중연기!!🤔🤔]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423936552?act=clip</guid>
             <pubDate>Tue, 16 Nov 2021 00:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:36]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc871119ae2a13fd5454cc87487c5164a78f2421f" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc871119ae2a13fd5454cc87487c5164a78f2421f" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[63회. 마지막회 - 나와의 채팅 편]]></title>
@@ -37,7 +37,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423928291?act=clip</guid>
             <pubDate>Tue, 16 Nov 2021 00:19:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>26:27]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7eb5ab4a1a41e3a95aa015d7d4e840903b24c4f2" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7eb5ab4a1a41e3a95aa015d7d4e840903b24c4f2" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[(수능 D-9) 순례길에서 수능을 때려치고 온 고3을 만났다.]]></title>
