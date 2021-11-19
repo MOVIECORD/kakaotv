@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 06:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -333,7 +333,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423988617?act=clip</guid>
             <pubDate>Wed, 17 Nov 2021 08:06:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:19]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F45c47303c62ce8f70a7fb30eb4b4df13091d0cf8" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F45c47303c62ce8f70a7fb30eb4b4df13091d0cf8" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[연예계 마당발 정준하가 유일하게 안 친한 연예인은 이경규?! (kakaoTV ─ 찐경규)]]></title>
@@ -341,7 +341,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423988591?act=clip</guid>
             <pubDate>Wed, 17 Nov 2021 08:06:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:51]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F159afa3c3b92986aba41d69bff6490d9f2585f86" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F159afa3c3b92986aba41d69bff6490d9f2585f86" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[61회. 취중찐담 with 정준하 (kakaoTV ─ 찐경규)]]></title>
@@ -349,7 +349,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423955699?act=clip</guid>
             <pubDate>Wed, 17 Nov 2021 08:06:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>18:49]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F073e4f1d0041ea8b1dc76a6638f175ae802568b0" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F073e4f1d0041ea8b1dc76a6638f175ae802568b0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[이승철 앞에서 원키로 말리꽃 부르는 모트PD... (이국종 교수님이 와도 못 살림...) (kakaoTV ─ 찐경규)]]></title>
@@ -893,7 +893,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423962856?act=clip</guid>
             <pubDate>Tue, 16 Nov 2021 10:06:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fcd6154e9d44d8f68c82b0dbe858ca9c84de26227" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fcd6154e9d44d8f68c82b0dbe858ca9c84de26227" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[춤추고 노래할 줄 알았던 진아에게 작곡을 가르친 대표님..! 넌 내게 수치를 안겨줬어..! (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
@@ -2437,7 +2437,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423942422?act=clip</guid>
             <pubDate>Tue, 16 Nov 2021 08:08:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:22]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F17b971e08c590425f1a1a8e19ed170aa85553aec" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F17b971e08c590425f1a1a8e19ed170aa85553aec" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[매도 타이밍 재고 있는 개미 주목! 차트 시그널만 알면 안 다칩니다! (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
@@ -2445,7 +2445,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423942358?act=clip</guid>
             <pubDate>Tue, 16 Nov 2021 08:08:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:14]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F07f9f0c1c55b6a2bd0a631b9f7f44ed989148832" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F07f9f0c1c55b6a2bd0a631b9f7f44ed989148832" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA["몰라요? 난 알겠는데ㅎ" 겁 없는 홍 부장의 도발! 배틀 그라운드 승자는 누구?! (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
@@ -2453,7 +2453,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423942337?act=clip</guid>
             <pubDate>Tue, 16 Nov 2021 08:08:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:11]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F5799a3eca725981db8caecd3fe72ae98aaf0ba2f" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F5799a3eca725981db8caecd3fe72ae98aaf0ba2f" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[10회. 기술적 매매 실전활용 편 (※황소 찾기!) (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
@@ -2461,7 +2461,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/423920649?act=clip</guid>
             <pubDate>Tue, 16 Nov 2021 08:08:46 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>39:13]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F41c3a1a3f009325a072701fccb9ba10ac18013f5" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F41c3a1a3f009325a072701fccb9ba10ac18013f5" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[뚠뚠 개미들 보유종목 차트 싹 다 털어주시는 트레이딩 전문가 (a.k.a 증권가의 살아있는 전설) (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>

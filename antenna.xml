@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 더듬이TV 우당탕탕 안테나</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 06:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423962856?act=clip</guid>
             <pubDate>Tue, 16 Nov 2021 10:06:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fcd6154e9d44d8f68c82b0dbe858ca9c84de26227" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fcd6154e9d44d8f68c82b0dbe858ca9c84de26227" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[춤추고 노래할 줄 알았던 진아에게 작곡을 가르친 대표님..! 넌 내게 수치를 안겨줬어..!]]></title>

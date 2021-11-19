@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 찐경규</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 05:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 06:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423988617?act=clip</guid>
             <pubDate>Wed, 17 Nov 2021 08:06:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:19]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F45c47303c62ce8f70a7fb30eb4b4df13091d0cf8" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F45c47303c62ce8f70a7fb30eb4b4df13091d0cf8" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[연예계 마당발 정준하가 유일하게 안 친한 연예인은 이경규?!]]></title>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423988591?act=clip</guid>
             <pubDate>Wed, 17 Nov 2021 08:06:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:51]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F159afa3c3b92986aba41d69bff6490d9f2585f86" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F159afa3c3b92986aba41d69bff6490d9f2585f86" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[61회. 취중찐담 with 정준하]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423955699?act=clip</guid>
             <pubDate>Wed, 17 Nov 2021 08:06:15 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>18:49]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F073e4f1d0041ea8b1dc76a6638f175ae802568b0" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F073e4f1d0041ea8b1dc76a6638f175ae802568b0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[이승철 앞에서 원키로 말리꽃 부르는 모트PD... (이국종 교수님이 와도 못 살림...)]]></title>
