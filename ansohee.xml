@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 10:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 11:06:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/424013015?act=clip</guid>
             <pubDate>Fri, 19 Nov 2021 00:21:58 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>12:58]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F28d6044ad182b33832901178fea92a107269001d" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F28d6044ad182b33832901178fea92a107269001d" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[29회. 17가지 로퍼&부츠 컬렉션🥿👢10년 신을 수 있는 팁까지!ㅣ토즈, 샤넬, 셀린, 프라다, 캠퍼, 오프닝세레모니, 보테가베네타]]></title>
