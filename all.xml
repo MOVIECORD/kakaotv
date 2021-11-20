@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Nov 2021 04:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Nov 2021 05:05:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -909,7 +909,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/424004234?act=clip</guid>
             <pubDate>Fri, 19 Nov 2021 08:08:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>22:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff8411047cbdce56c490fe7fe3ba137b20b098af0" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff8411047cbdce56c490fe7fe3ba137b20b098af0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[댄스가수가 꿈이었던(?) 권진아가 안테나에서 쓴 자작곡 <여행가> Full ver. (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
