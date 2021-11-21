@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 02:25:16 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Nov 2021 03:07:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3054,6 +3054,14 @@
             <pubDate>Thu, 07 Oct 2021 15:42:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:08]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa92829021f225240046c604e6a9da920c6454b6b" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[19회. 힙합의 길 (kakaoTV ─ 런웨이2)]]></title>
+            <link>https://tv.kakao.com/channel/3843430/cliplink/424056758?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3843430/cliplink/424056758?act=clip</guid>
+            <pubDate>Sun, 21 Nov 2021 03:06:56 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>16:44]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F54083378ae549ffd3e1edc587a831a6cd2eafc07" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[18회. 햄버거의 길 (kakaoTV ─ 런웨이2)]]></title>
