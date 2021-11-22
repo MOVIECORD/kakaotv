@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 파이트클럽</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 10:07:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 11:05:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/424080148?act=clip</guid>
             <pubDate>Mon, 22 Nov 2021 00:20:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>24:50]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd143d70ba1093a9e19dced1a7dd38ebd4ced67f4" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd143d70ba1093a9e19dced1a7dd38ebd4ced67f4" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[7회. 세계랭킹 4위가 보는 파이트 클럽 최고의 파이터.. !? l 정찬성 코멘터리]]></title>
