@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 09:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 10:07:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -925,7 +925,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/424014465?act=clip</guid>
             <pubDate>Fri, 19 Nov 2021 08:08:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:59]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F744311cfef8fedd98749c94d4f0e07202e8ca748" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F744311cfef8fedd98749c94d4f0e07202e8ca748" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA["저 연기학원 등록했어요!" 대표님도 몰랐던 승환의 연기 열정🔥🔥 (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
@@ -933,7 +933,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/424014160?act=clip</guid>
             <pubDate>Fri, 19 Nov 2021 08:08:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:43]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F58e592494c66b3cab74d688e68c96ba1835644e7" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F58e592494c66b3cab74d688e68c96ba1835644e7" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[7-2회. 밤을 타는 밤 : 토크 집착광공 유희열🧏‍♂️🗯 VS ♨️지옥♨️에서 온 거짓말 탐지기☠(feat. 내돈내산) (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
