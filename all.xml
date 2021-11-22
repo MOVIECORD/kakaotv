@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 21 Nov 2021 23:06:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 00:22:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -648,6 +648,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F031c5acafa27ed4a9dab119c15ec4f6104fc9f73" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[8회. UFC 파이터 정찬성 극대노한 이유 ㄷㄷ l 정찬성 코멘터리 (kakaoTV ─ 파이트클럽)]]></title>
+            <link>https://tv.kakao.com/channel/3887627/cliplink/424080148?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3887627/cliplink/424080148?act=clip</guid>
+            <pubDate>Mon, 22 Nov 2021 00:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>24:50]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd143d70ba1093a9e19dced1a7dd38ebd4ced67f4" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[7회. 세계랭킹 4위가 보는 파이트 클럽 최고의 파이터.. !? l 정찬성 코멘터리 (kakaoTV ─ 파이트클럽)]]></title>
             <link>https://tv.kakao.com/channel/3887627/cliplink/423897679?act=clip</link>
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423897679?act=clip</guid>
@@ -805,7 +813,7 @@
             <guid>https://tv.kakao.com/channel/3887627/cliplink/423032382?act=clip</guid>
             <pubDate>Tue, 12 Oct 2021 13:13:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:32]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6f831629bb4bceb4376a454a8b89602de37e4cf5" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6f831629bb4bceb4376a454a8b89602de37e4cf5" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[미공개 파이트 풀영상 l 6번(차영훈) vs 10번(로스) (kakaoTV ─ 파이트클럽)]]></title>
