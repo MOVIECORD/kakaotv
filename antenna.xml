@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 더듬이TV 우당탕탕 안테나</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 09:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 10:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/424114734?act=clip</guid>
             <pubDate>Mon, 22 Nov 2021 08:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:02]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff327f726c57c77ec479559ae065099a7e22f83ca" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff327f726c57c77ec479559ae065099a7e22f83ca" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[이거 하면 우리도 글로벌 스타 되는 거야? 달고나 게임에서 전멸한 안테나인들ㅜ]]></title>
@@ -21,7 +21,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/424114653?act=clip</guid>
             <pubDate>Mon, 22 Nov 2021 08:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:54]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd785da26a9af76f64410484bc77a36a5ef39c676" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd785da26a9af76f64410484bc77a36a5ef39c676" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[8-1회. FC 안테나 : "자신이 없어요...🙈 질 자신이...🙉" 다리보다 입이 먼저 달려나오는👄🏃그들만의 풋살 리그의 서막 ⚽]]></title>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/424093043?act=clip</guid>
             <pubDate>Mon, 22 Nov 2021 08:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>20:36]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fed288bed4a3ea1852b1bfc0b15fc24d42194464a" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fed288bed4a3ea1852b1bfc0b15fc24d42194464a" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[안테나 대표 관두고 싶다는 유희열의 진심... "삐빅- 거짓말입니다!"]]></title>
