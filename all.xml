@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 09:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 10:09:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -333,7 +333,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/424152257?act=clip</guid>
             <pubDate>Wed, 24 Nov 2021 08:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:42]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdebc5236d9c4d6e777745d8e48f6875eff730f07" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdebc5236d9c4d6e777745d8e48f6875eff730f07" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[한 번도 짜증 안 내면 칼퇴! ⭐찐경규 레전드⭐ 앵그리 하우스가 돌아왔습니다^^ (kakaoTV ─ 찐경규)]]></title>
@@ -341,7 +341,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/424151991?act=clip</guid>
             <pubDate>Wed, 24 Nov 2021 08:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:01]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0271a0e6f9d1ac5c2d42f96d74422a948cdfc346" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0271a0e6f9d1ac5c2d42f96d74422a948cdfc346" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[62회. 앵그리하우스 with 허재 (kakaoTV ─ 찐경규)]]></title>
@@ -349,7 +349,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/424136011?act=clip</guid>
             <pubDate>Wed, 24 Nov 2021 08:10:54 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>32:13]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4133e4bca4f248abb871c7ef6f38d762047e4ba5" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4133e4bca4f248abb871c7ef6f38d762047e4ba5" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[세상 의미 없는 질문과.... 세상 의미 없는 고민.... 그리고 정준하 (kakaoTV ─ 찐경규)]]></title>
@@ -2445,7 +2445,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/424125629?act=clip</guid>
             <pubDate>Tue, 23 Nov 2021 08:08:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:39]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6006bf1fb483d7b64993ee967472467969d3c6fe" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6006bf1fb483d7b64993ee967472467969d3c6fe" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[충격! 누구보다 빠르게 테슬라를 접했던 지석진, 주식은 1주도 없다고 밝혀져... (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
@@ -2453,7 +2453,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/424125437?act=clip</guid>
             <pubDate>Tue, 23 Nov 2021 08:08:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:37]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F02886100658727d5e9c3b7919f9113195d0020a6" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F02886100658727d5e9c3b7919f9113195d0020a6" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[손절 타이밍 못 잡아서 결국 상장 폐지만 3번?! 팔랑귀 지석진의 화려한 이력 (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
@@ -2461,7 +2461,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/424125236?act=clip</guid>
             <pubDate>Tue, 23 Nov 2021 08:08:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:17]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F33c59ae9ba8c1dd9433bf388aedeb760790804f2" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F33c59ae9ba8c1dd9433bf388aedeb760790804f2" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[11회. 첫 VIP 고객 행차! 올인원 투자컨설팅 (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
@@ -2469,7 +2469,7 @@
             <guid>https://tv.kakao.com/channel/3875615/cliplink/424105734?act=clip</guid>
             <pubDate>Tue, 23 Nov 2021 08:08:37 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>44:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9d725f0a3283a1c8b19d75f068dde3223de1a594" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9d725f0a3283a1c8b19d75f068dde3223de1a594" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[30분만에 20만원 삭-제^^ 뼛속에 새기는 이론과 현실의 갭차이ㅠ (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터5)]]></title>
