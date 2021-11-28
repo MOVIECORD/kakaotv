@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 02:23:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 03:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3064,6 +3064,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa92829021f225240046c604e6a9da920c6454b6b" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[20회. 헤어디자이너의 길 (kakaoTV ─ 런웨이2)]]></title>
+            <link>https://tv.kakao.com/channel/3843430/cliplink/424269604?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3843430/cliplink/424269604?act=clip</guid>
+            <pubDate>Sun, 28 Nov 2021 03:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:51]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6196cda4b8e5d094d7047b9c4f21e6ceceb218ca" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[19회. 힙합의 길 (kakaoTV ─ 런웨이2)]]></title>
             <link>https://tv.kakao.com/channel/3843430/cliplink/424056758?act=clip</link>
             <guid>https://tv.kakao.com/channel/3843430/cliplink/424056758?act=clip</guid>
@@ -3221,7 +3229,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/420625203?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:44:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:36]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbf5c2f3d2273ac4df8b8dbbcab5aa0749ad45287" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbf5c2f3d2273ac4df8b8dbbcab5aa0749ad45287" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[31회. Vlog.하루종일 먹기만 하다 끝난 첫 글램핑.. ⛺🍁 | 국민닭갈비, 바베큐 파티, 붕어빵, 마시멜로우, 불멍 (kakaoTV ─ 안소희)]]></title>
