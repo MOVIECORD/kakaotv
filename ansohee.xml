@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 09:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 10:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/424195945?act=clip</guid>
             <pubDate>Fri, 26 Nov 2021 00:21:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>10:38]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F87aefd75f68f7c26ce744b4b27dfc9acc7702b49" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F87aefd75f68f7c26ce744b4b27dfc9acc7702b49" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[30회. 겨울엔 코트지😉🧥🤎 즉석에서 코디해본 코트 룩 4가지! | 더현대서울, 폼더스토어, 아우터, 니트, 데님 추천]]></title>
