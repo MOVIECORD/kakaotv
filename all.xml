@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 09:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 10:06:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3069,7 +3069,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/424269604?act=clip</guid>
             <pubDate>Sun, 28 Nov 2021 03:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:51]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6196cda4b8e5d094d7047b9c4f21e6ceceb218ca" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6196cda4b8e5d094d7047b9c4f21e6ceceb218ca" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[19회. 힙합의 길 (kakaoTV ─ 런웨이2)]]></title>
