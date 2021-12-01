@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 07:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 08:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,38 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc046abefa9dbbc3cf717c4b0c63ced286df264b1" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[부정하고 싶지만 맞는말이네; 감독 시절에도 못 이긴 서장훈 말빨(절레절레) (kakaoTV ─ 찐경규)]]></title>
+            <link>https://tv.kakao.com/channel/3643851/cliplink/424348843?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3643851/cliplink/424348843?act=clip</guid>
+            <pubDate>Wed, 01 Dec 2021 08:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:25]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc0a0a40c9a535a9c7eda88221290a9efcdb8e140" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[까꿍^^ 보물 찾다 화내면 또 퇴근 늦춰지는 어른이들의 보물찾기 무한굴레 (kakaoTV ─ 찐경규)]]></title>
+            <link>https://tv.kakao.com/channel/3643851/cliplink/424348749?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3643851/cliplink/424348749?act=clip</guid>
+            <pubDate>Wed, 01 Dec 2021 08:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:19]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ffc4c8d0b27ad5b4d7e963219a4624d8f733d6451" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA['너 밖에 안보여 너~♬' 허재만 노리는 모르모트 심판에게 던진 명대사😆😆 (kakaoTV ─ 찐경규)]]></title>
+            <link>https://tv.kakao.com/channel/3643851/cliplink/424348660?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3643851/cliplink/424348660?act=clip</guid>
+            <pubDate>Wed, 01 Dec 2021 08:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:19]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6b24fd468b9932eed0fc29e996768859b0d43143" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[63회. 앵그리 MT with 허재 (kakaoTV ─ 찐경규)]]></title>
+            <link>https://tv.kakao.com/channel/3643851/cliplink/424335564?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3643851/cliplink/424335564?act=clip</guid>
+            <pubDate>Wed, 01 Dec 2021 08:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>28:41]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb699d3ed344a3569bd515023cc75b0e766b0e60c" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA["야 허재 코 진짜 크지 않냐 ㅋㅋ" 라는 문자를 허재한테 보내봄 (kakaoTV ─ 찐경규)]]></title>
             <link>https://tv.kakao.com/channel/3643851/cliplink/424152257?act=clip</link>
             <guid>https://tv.kakao.com/channel/3643851/cliplink/424152257?act=clip</guid>
@@ -461,7 +493,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423382574?act=clip</guid>
             <pubDate>Wed, 27 Oct 2021 08:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>26:24]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fecaea5d8e385abd508767d7207b5f4f3ad531478" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fecaea5d8e385abd508767d7207b5f4f3ad531478" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[세상 말 많은 TMT 서장훈 덕분에 분량 제대로 뽑았다^^! (kakaoTV ─ 찐경규)]]></title>
@@ -469,7 +501,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423230941?act=clip</guid>
             <pubDate>Wed, 20 Oct 2021 08:06:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:10]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe4645ac2be90e1e908b5d25a2e2c4c8fa4934b0a" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe4645ac2be90e1e908b5d25a2e2c4c8fa4934b0a" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[서장훈의 재력에 대한 팩트, 지금 밝혀드립니다! (kakaoTV ─ 찐경규)]]></title>
@@ -477,7 +509,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423230879?act=clip</guid>
             <pubDate>Wed, 20 Oct 2021 08:06:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:49]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2e484e9a6997543153bb7ed16eec3d36595ce5d8" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2e484e9a6997543153bb7ed16eec3d36595ce5d8" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[수다만 떨어도 시청률 나오겠다ㅋ 싶어서 시작하게 된 방송이 대박났다?! (kakaoTV ─ 찐경규)]]></title>
@@ -485,7 +517,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423230776?act=clip</guid>
             <pubDate>Wed, 20 Oct 2021 08:06:24 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:46]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdab69ac054fb627560ca8ac6f5e64c2660d69ef9" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdab69ac054fb627560ca8ac6f5e64c2660d69ef9" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[57회. 취중찐담 with 서장훈 (kakaoTV ─ 찐경규)]]></title>
@@ -614,38 +646,6 @@
             <pubDate>Thu, 07 Oct 2021 15:31:31 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:52]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F08db244be8f396c05519fbf5395dd16f078e93ec" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[시대를 너무 일찍 앞서가 아무도 몰라본 명작?! (kakaoTV ─ 찐경규)]]></title>
-            <link>https://tv.kakao.com/channel/3643851/cliplink/422513989?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3643851/cliplink/422513989?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 15:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:35]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0b1ec2bcf4d9f59202368149a9338aefe337cc11" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[53회. 복수혈전 LIVE: 복수의 시작 (kakaoTV ─ 찐경규)]]></title>
-            <link>https://tv.kakao.com/channel/3643851/cliplink/422491361?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3643851/cliplink/422491361?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 15:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>26:22]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F1ef2b3caca4b78d472a1bbbbf64c842d074d1702" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[김보성 이름도 바꾸게 만든 신분세탁의 발판 이경규?! (kakaoTV ─ 찐경규)]]></title>
-            <link>https://tv.kakao.com/channel/3643851/cliplink/422335441?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3643851/cliplink/422335441?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 15:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:52]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4150e763ccf0d7e7a9280a3a8d1ac00c7378a2e5" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[천만 관객 주호민 앞에서 이경규랑 복수혈전 보기 (kakaoTV ─ 찐경규)]]></title>
-            <link>https://tv.kakao.com/channel/3643851/cliplink/422335323?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3643851/cliplink/422335323?act=clip</guid>
-            <pubDate>Thu, 07 Oct 2021 15:31:31 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:37]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3071b6a13648a9524f6b0639490ef156a73f63ef" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[8회. UFC 파이터 정찬성 극대노한 이유 ㄷㄷ l 정찬성 코멘터리 (kakaoTV ─ 파이트클럽)]]></title>
