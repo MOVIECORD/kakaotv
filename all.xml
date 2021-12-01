@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Dec 2021 12:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Dec 2021 13:17:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -896,6 +896,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4d237657f18b139d21e71145eb645b22e0b42edb" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[안테나 막내사원 출동! 역대급 스케일 [슈퍼 새가수 뭐하니 가요제] 12월 6일 (월) 5시✨ (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
+            <link>https://tv.kakao.com/channel/3883129/cliplink/424371149?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3883129/cliplink/424371149?act=clip</guid>
+            <pubDate>Wed, 01 Dec 2021 13:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4408e749a6f45971deed3dbf803c973f3cb3bf9e" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[이진아에게 노래 뺏긴(?) 주접킹 적재 "진아 눈에 별이 있으면 나는 어떡해...? >.<" (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
             <link>https://tv.kakao.com/channel/3883129/cliplink/424296212?act=clip</link>
             <guid>https://tv.kakao.com/channel/3883129/cliplink/424296212?act=clip</guid>
@@ -1053,7 +1061,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/423743955?act=clip</guid>
             <pubDate>Mon, 08 Nov 2021 08:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:36]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd12d2bc2d91332a26df06571a63fec0969159b8b" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd12d2bc2d91332a26df06571a63fec0969159b8b" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[벌써 도착했다구?! 레이싱카 1일차.. 천재 카레이서의 등장★ (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
@@ -1206,14 +1214,6 @@
             <pubDate>Fri, 22 Oct 2021 08:07:27 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:16]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc93ec41b53c65897370584c60d1f94cc54e925ab" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[안테나 입사하면 하는 일 = 유희열 손톱 관리? 베이스코트 바르며 깨닫는 삶의 이치 (kakaoTV ─ 더듬이TV 우당탕탕 안테나)]]></title>
-            <link>https://tv.kakao.com/channel/3883129/cliplink/423272872?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3883129/cliplink/423272872?act=clip</guid>
-            <pubDate>Fri, 22 Oct 2021 08:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa9c7ed54664bd5109a2762c9107782135f31593c" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[<챕터 2> 개장! ’보여줘야겠어 홍반꿀이라 했던 너에게도’ [개미는 오늘도 뚠뚠] (kakaoTV ─ 개미는 오늘도 뚠뚠)]]></title>
