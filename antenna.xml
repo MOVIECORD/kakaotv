@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 더듬이TV 우당탕탕 안테나</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 09:07:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 10:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/424371149?act=clip</guid>
             <pubDate>Wed, 01 Dec 2021 13:15:57 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4408e749a6f45971deed3dbf803c973f3cb3bf9e" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4408e749a6f45971deed3dbf803c973f3cb3bf9e" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[이진아에게 노래 뺏긴(?) 주접킹 적재 "진아 눈에 별이 있으면 나는 어떡해...? >.<"]]></title>
