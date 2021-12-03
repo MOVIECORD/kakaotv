@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 05:07:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 06:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3237,7 +3237,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/424400718?act=clip</guid>
             <pubDate>Fri, 03 Dec 2021 00:21:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>12:30]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd97cfc9f0cf6c1e5a631f3c59ab43720c2bd3c10" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd97cfc9f0cf6c1e5a631f3c59ab43720c2bd3c10" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[31회. Vlog.하루종일 먹기만 하다 끝난 첫 글램핑.. ⛺🍁 | 국민닭갈비, 바베큐 파티, 붕어빵, 마시멜로우, 불멍 (kakaoTV ─ 안소희)]]></title>
