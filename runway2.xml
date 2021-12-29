@@ -4,9 +4,25 @@
         <title>kakaoTV ─ 런웨이2</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 17:06:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 03:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[22회. 막걸리의 길]]></title>
+            <link>https://tv.kakao.com/channel/3843430/cliplink/424832675?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3843430/cliplink/424832675?act=clip</guid>
+            <pubDate>Wed, 29 Dec 2021 03:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:47]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fcaee09183842135a796a98f0025787a7806cee06" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[21회. 런웨이2 백스테이지]]></title>
+            <link>https://tv.kakao.com/channel/3843430/cliplink/424635095?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3843430/cliplink/424635095?act=clip</guid>
+            <pubDate>Wed, 29 Dec 2021 03:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>16:49]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7f3768ec184b44df17f2a9f927ab26648b4cde9b" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[20회. 헤어디자이너의 길]]></title>
             <link>https://tv.kakao.com/channel/3843430/cliplink/424269604?act=clip</link>
@@ -157,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/420998034?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:44:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:51]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbc84f5bb104ae35e5f07f868323f2e2162f7ff49" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbc84f5bb104ae35e5f07f868323f2e2162f7ff49" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[1회. 치어리더의 길]]></title>
@@ -165,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/420804719?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:44:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:12]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa7d119bd1a55c90e8d932fad4660542be50c7487" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa7d119bd1a55c90e8d932fad4660542be50c7487" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[0회. 미주의 길]]></title>
