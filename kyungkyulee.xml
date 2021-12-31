@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 찐경규</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 02:40:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 03:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[♥경규는 우리 마음 속 연예대상♥ 눈물 없이는 못 보는 2020년의 ‘그 사건’ 다시보기]]></title>
+            <link>https://tv.kakao.com/channel/3643851/cliplink/425173127?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3643851/cliplink/425173127?act=clip</guid>
+            <pubDate>Fri, 31 Dec 2021 03:20:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:19]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe0336d66bfd2cad48610ecfb2ca16b372cbcb3a6" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[앵그리 하우스에 오신 걸 환영합니다★ 특별 게스트 허재와 함께한 분노 가득한 하루.zip]]></title>
             <link>https://tv.kakao.com/channel/3643851/cliplink/425153384?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/424527030?act=clip</guid>
             <pubDate>Wed, 29 Dec 2021 03:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>28:54]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fea78ef82e0ef8b1a45ce397b05fe269b9f567da2" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fea78ef82e0ef8b1a45ce397b05fe269b9f567da2" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[부정하고 싶지만 맞는말이네; 감독 시절에도 못 이긴 서장훈 말빨(절레절레)]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 27 Oct 2021 08:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:19]]></content:encoded>
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6f593e07083c8da0b801b7c78f3aa564735d0533" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[놀고 있는 MC와 땀흘리는 게스트;; 오늘부터 찐경규 아니고 (살)찐준현^^]]></title>
-            <link>https://tv.kakao.com/channel/3643851/cliplink/423402771?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3643851/cliplink/423402771?act=clip</guid>
-            <pubDate>Wed, 27 Oct 2021 08:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:59]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe3dd73bb0222efcf0c9347e78512acc7465691a1" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
