@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 런웨이2</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jan 2022 02:42:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jan 2022 03:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[23회. 걸스힙합의 길]]></title>
+            <link>https://tv.kakao.com/channel/3843430/cliplink/425225470?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3843430/cliplink/425225470?act=clip</guid>
+            <pubDate>Sun, 02 Jan 2022 03:21:58 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>16:09]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2e5bda28b11fdbebf95884ea461f48a762152d1d" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[22회. 막걸리의 길]]></title>
             <link>https://tv.kakao.com/channel/3843430/cliplink/424832675?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/421174218?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:44:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>20:44]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F41468d2bb825c6c9fc5ae2b0350bbfb8fec29541" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F41468d2bb825c6c9fc5ae2b0350bbfb8fec29541" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[2회. 모델의 길]]></title>
