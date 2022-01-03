@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 런웨이2</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 08:26:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 09:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -125,7 +125,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/422252829?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:44:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>18:44]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2fc2b6c33496b84e995ef254821bc8442782aaa2" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2fc2b6c33496b84e995ef254821bc8442782aaa2" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[8회. 골프게임의 길]]></title>
