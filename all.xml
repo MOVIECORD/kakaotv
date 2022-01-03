@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 06:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 07:21:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3221,7 +3221,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/421336149?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:44:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>16:11]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F677a5ca64d9c462beb8d22025ddaa6a408559e68" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F677a5ca64d9c462beb8d22025ddaa6a408559e68" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[3회. 댄스 스포츠의 길 (kakaoTV ─ 런웨이2)]]></title>
@@ -3237,7 +3237,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/420998034?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:44:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:51]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbc84f5bb104ae35e5f07f868323f2e2162f7ff49" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbc84f5bb104ae35e5f07f868323f2e2162f7ff49" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[1회. 치어리더의 길 (kakaoTV ─ 런웨이2)]]></title>
