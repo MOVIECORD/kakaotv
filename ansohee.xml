@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jan 2022 03:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jan 2022 04:28:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -205,7 +205,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/421044517?act=clip</guid>
             <pubDate>Thu, 02 Dec 2021 18:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:58]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff61abd8cd69470eaca87537e01372f0f70297ee2" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff61abd8cd69470eaca87537e01372f0f70297ee2" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[10회. 제빵왕 안소희. 일주년 축하해줘서 넘넘 고마운데 라이브 때 케이크 잊어줄 수 있어?😉🌟🎂 (EP.03)ㅣ찐실력 담은 에필로그, 베이킹 ASMR]]></title>
