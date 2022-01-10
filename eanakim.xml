@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 톡이나 할까</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 07:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 08:26:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -29,7 +29,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/425366655?act=clip</guid>
             <pubDate>Fri, 07 Jan 2022 01:12:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:08]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb4054b9a9c411bfa7f93b02f4c2fa2128d9d6a0d" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb4054b9a9c411bfa7f93b02f4c2fa2128d9d6a0d" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA['배구 여신' 김희진과 톡이나 할까? 감성 톡터뷰]]></title>
@@ -37,7 +37,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/425366640?act=clip</guid>
             <pubDate>Fri, 07 Jan 2022 01:12:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>08:37]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0e81d1a7a0725cbbc821593ba04026f9b1788d7d" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F0e81d1a7a0725cbbc821593ba04026f9b1788d7d" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA['홍천기' 김유정과 톡이나 할까? 감성 톡터뷰]]></title>
