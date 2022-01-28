@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 09:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 10:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3064,6 +3064,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa92829021f225240046c604e6a9da920c6454b6b" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[26회. 브랜드 사업의 길 (kakaoTV ─ 런웨이2)]]></title>
+            <link>https://tv.kakao.com/channel/3843430/cliplink/425930858?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3843430/cliplink/425930858?act=clip</guid>
+            <pubDate>Fri, 28 Jan 2022 10:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:36]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb119ddd5c3ab3b041747d454b51c22c5e1a25403" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[25회. 중국어의 길 (kakaoTV ─ 런웨이2)]]></title>
             <link>https://tv.kakao.com/channel/3843430/cliplink/425753207?act=clip</link>
             <guid>https://tv.kakao.com/channel/3843430/cliplink/425753207?act=clip</guid>
@@ -3221,7 +3229,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/421691866?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:44:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:28]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F93c29f04db05f482523beb46358a0cc675af3ef1" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F93c29f04db05f482523beb46358a0cc675af3ef1" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[5회. 카카오웹툰의 길 (kakaoTV ─ 런웨이2)]]></title>
