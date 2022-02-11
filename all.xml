@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 09:20:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 10:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3064,6 +3064,14 @@
             <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa92829021f225240046c604e6a9da920c6454b6b" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[28회. 유기견 봉사활동의 길 (kakaoTV ─ 런웨이2)]]></title>
+            <link>https://tv.kakao.com/channel/3843430/cliplink/426256750?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3843430/cliplink/426256750?act=clip</guid>
+            <pubDate>Fri, 11 Feb 2022 10:21:39 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:15]]></content:encoded>
+            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb22d4a9eed66eb96f2fa12a7868e3f1afcc2d9f8" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[27회. 바리스타의 길 (kakaoTV ─ 런웨이2)]]></title>
             <link>https://tv.kakao.com/channel/3843430/cliplink/426084085?act=clip</link>
             <guid>https://tv.kakao.com/channel/3843430/cliplink/426084085?act=clip</guid>
@@ -3221,7 +3229,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/422061315?act=clip</guid>
             <pubDate>Thu, 07 Oct 2021 15:44:40 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:44]]></content:encoded>
-            <enclosure url="https://t1.daumcdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6d2ad63c853dd6ee45525e1d92b8ee33c667b310" length="0" type="image/q75/"/>
+            <enclosure url="https://t1.daumcdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6d2ad63c853dd6ee45525e1d92b8ee33c667b310" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[7회. 드론의 길 (kakaoTV ─ 런웨이2)]]></title>
