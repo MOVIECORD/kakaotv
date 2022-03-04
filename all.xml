@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 23:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2022 01:23:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3312,6 +3312,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbf5c2f3d2273ac4df8b8dbbcab5aa0749ad45287" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[41회. item. 다 쓰기 전에 쟁여놓는 쏳찐! 공병템 22가지 🧴🥣 (kakaoTV ─ 안소희)]]></title>
+            <link>https://tv.kakao.com/channel/3817543/cliplink/426766512?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3817543/cliplink/426766512?act=clip</guid>
+            <pubDate>Fri, 04 Mar 2022 01:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:33]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4a5f6d14e4130317e9b40396dfb5d94097516d94" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[40회. Vlog. 나혼자 호캉스! 드라마 촬영 끝나고 제대로 쉬고 왔솧 🛁🥂🏊🏻  ㅣ메리어트호텔, MarriottBonvoy (kakaoTV ─ 안소희)]]></title>
             <link>https://tv.kakao.com/channel/3817543/cliplink/426400550?act=clip</link>
             <guid>https://tv.kakao.com/channel/3817543/cliplink/426400550?act=clip</guid>
@@ -3469,7 +3477,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/422371004?act=clip</guid>
             <pubDate>Fri, 18 Feb 2022 09:20:14 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>13:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F47d427cc945e2dc86be229b0c57a194af238da11" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F47d427cc945e2dc86be229b0c57a194af238da11" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[19회. 귀걸이부터 반지, 팔찌, 시계까지! 22가지 주얼리들 탈탈 털었솧💍💎 | 주얼리 브랜드, 추천, 하울, 소개 (kakaoTV ─ 안소희)]]></title>
