@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:19:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 06:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/426766512?act=clip</guid>
             <pubDate>Fri, 04 Mar 2022 01:23:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:33]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4a5f6d14e4130317e9b40396dfb5d94097516d94" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4a5f6d14e4130317e9b40396dfb5d94097516d94" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[40회. Vlog. 나혼자 호캉스! 드라마 촬영 끝나고 제대로 쉬고 왔솧 🛁🥂🏊🏻  ㅣ메리어트호텔, MarriottBonvoy]]></title>
