@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 23:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 01:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[42회. Vlog. 민리더! 선예언니와 데이트❣️ㅣ서른아홉 본방사수, 깻잎논쟁, 성수 와인바]]></title>
+            <link>https://tv.kakao.com/channel/3817543/cliplink/426911791?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3817543/cliplink/426911791?act=clip</guid>
+            <pubDate>Fri, 11 Mar 2022 01:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>11:57]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F984744cc33daa1819c204ad7f31827205e1d1dc4" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[41회. item. 다 쓰기 전에 쟁여놓는 쏳찐! 공병템 22가지 🧴🥣]]></title>
             <link>https://tv.kakao.com/channel/3817543/cliplink/426766512?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/422548632?act=clip</guid>
             <pubDate>Thu, 02 Dec 2021 18:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8720f2a323f46e674440eaed4def917e9b4da46c" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8720f2a323f46e674440eaed4def917e9b4da46c" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[20회. 집밥 안선생. 해피 추석🍛🍝🍲  여러분! 저 잡채 성공했어요 🤭| 전통시장, 잡채, 육전, 소고기 뭇국, 특별 레시피]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 02 Dec 2021 18:10:04 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:45]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6eaaa086934f3217ff084b88464991a0a6fc3275" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[1회. 버킷리스트 도전! 패러글라이딩하고 왔솧…😳🪂ㅣ 카페산, 단양, 액티비티]]></title>
-            <link>https://tv.kakao.com/channel/3817543/cliplink/419246493?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3817543/cliplink/419246493?act=clip</guid>
-            <pubDate>Thu, 02 Dec 2021 18:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>08:18]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F17dd44c89aa70f03067f22acfb60c18be0d710cf" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
