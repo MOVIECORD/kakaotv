@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 09:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 10:22:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3317,7 +3317,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/426911791?act=clip</guid>
             <pubDate>Fri, 11 Mar 2022 01:20:42 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>11:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F984744cc33daa1819c204ad7f31827205e1d1dc4" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F984744cc33daa1819c204ad7f31827205e1d1dc4" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[41회. item. 다 쓰기 전에 쟁여놓는 쏳찐! 공병템 22가지 🧴🥣 (kakaoTV ─ 안소희)]]></title>
