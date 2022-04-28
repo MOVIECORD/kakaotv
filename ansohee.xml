@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 04:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 05:44:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/428256563?act=clip</guid>
             <pubDate>Wed, 27 Apr 2022 09:23:32 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>10:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F626eb67bd3d4beea6105ccab4d7bafbb2ab0388d" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F626eb67bd3d4beea6105ccab4d7bafbb2ab0388d" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[47회. 혹시 퇴사..아니 퇴근해봐도 될까요?😀💦ㅣ카카오엔터 신입 PD 출근 브이로그]]></title>
