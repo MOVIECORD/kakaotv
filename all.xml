@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 07:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 08:30:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3324,7 +3324,7 @@
             <link>https://tv.kakao.com/channel/3817543/cliplink/428256563?act=clip</link>
             <guid>https://tv.kakao.com/channel/3817543/cliplink/428256563?act=clip</guid>
             <pubDate>Wed, 27 Apr 2022 09:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>10:10]]></content:encoded>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>10:09]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F626eb67bd3d4beea6105ccab4d7bafbb2ab0388d" length="0" type="image/q75/"/>
         </item>
         <item>
