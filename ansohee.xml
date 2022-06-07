@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 08:32:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 09:26:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/429258616?act=clip</guid>
             <pubDate>Fri, 03 Jun 2022 01:41:56 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>10:17]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7de8d8449a88792d2e49da373df593119e2db84c" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7de8d8449a88792d2e49da373df593119e2db84c" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[52회. 어후 너무 좋아서 나만 알고싶다..😀ㅣ잠실 소피텔, 한남동 소수, 어버이날 선물, 라이프 전시]]></title>
