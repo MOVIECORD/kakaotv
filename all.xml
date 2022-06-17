@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 06:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 07:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3317,7 +3317,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/429631004?act=clip</guid>
             <pubDate>Fri, 17 Jun 2022 01:54:34 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>16:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff0dfddba5d5494da80df2ac2c4df014610357d43" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff0dfddba5d5494da80df2ac2c4df014610357d43" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[54회. 내새꾸들 하나씩 모으다보니..23개?🤭👜🧡ㅣ첫 명품가방 추천, 가방관리법, 명품 입문백 (kakaoTV ─ 안소희)]]></title>
