@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 07:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 08:30:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/429829686?act=clip</guid>
             <pubDate>Fri, 24 Jun 2022 01:56:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9ffcb46c0657758ed220dd7717feb22261c1a45c" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9ffcb46c0657758ed220dd7717feb22261c1a45c" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[55회. 세상 힙하고 맛나게 강원도 다녀오는 법이랄까..😎🏖(ft.지글지글)ㅣ티셔츠 코디, 마켓컬리 솧찐템]]></title>
