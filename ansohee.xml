@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 09:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 10:27:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/430399898?act=clip</guid>
             <pubDate>Fri, 15 Jul 2022 02:15:19 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F987b293fcaf0620d90450cb1665dd02852c4a841" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F987b293fcaf0620d90450cb1665dd02852c4a841" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[58회. 믿고 사는 솧찐템! 2022 상반기 결산편 😎 | 뷰티부터 식품, 패션 리빙까지! | 두피 케어, 반신욕 레시피, 영양제, 데님, 귀걸이, 슈즈]]></title>
