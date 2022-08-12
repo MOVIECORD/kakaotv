@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 23:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 01:58:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[61회. 승관씨 진짜 우리 팬이었구나🙌 | 안소희x부승관]]></title>
+            <link>https://tv.kakao.com/channel/3817543/cliplink/431118944?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3817543/cliplink/431118944?act=clip</guid>
+            <pubDate>Fri, 12 Aug 2022 01:57:32 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>13:09]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc121fb9d76a71e1770503cd1cab972b7f2beb61a" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[60회. 소희의 찐 나이트 스킨케어 루틴! 근데 이제 티타임 수다를 곁들인…☕️ | 데일리 스킨케어, 폼 롤러 스트레칭]]></title>
             <link>https://tv.kakao.com/channel/3817543/cliplink/430941456?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/426766512?act=clip</guid>
             <pubDate>Fri, 04 Mar 2022 01:23:33 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:33]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4a5f6d14e4130317e9b40396dfb5d94097516d94" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4a5f6d14e4130317e9b40396dfb5d94097516d94" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[40회. Vlog. 나혼자 호캉스! 드라마 촬영 끝나고 제대로 쉬고 왔솧 🛁🥂🏊🏻  ㅣ메리어트호텔, MarriottBonvoy]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 27 Jul 2022 16:33:53 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:29]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8720f2a323f46e674440eaed4def917e9b4da46c" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[20회. 집밥 안선생. 해피 추석🍛🍝🍲  여러분! 저 잡채 성공했어요 🤭| 전통시장, 잡채, 육전, 소고기 뭇국, 특별 레시피]]></title>
-            <link>https://tv.kakao.com/channel/3817543/cliplink/422371004?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3817543/cliplink/422371004?act=clip</guid>
-            <pubDate>Wed, 27 Jul 2022 16:33:53 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>13:20]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F47d427cc945e2dc86be229b0c57a194af238da11" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
