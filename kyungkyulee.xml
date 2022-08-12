@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 찐경규</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 01:58:23 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 03:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -69,7 +69,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/425104278?act=clip</guid>
             <pubDate>Wed, 29 Dec 2021 03:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>10:54]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2F2016%2Fcommon%2Fprofile%2Fthumb_default.jpg" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F23d10f4f3c8f9260543bc2756911bcde81e4d95f" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[이 집 미담 잘 만드네^^ 수제 미담 맛집 이경규가 직접 만든 미담 주작단의 정체.zip]]></title>
@@ -117,7 +117,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/424723578?act=clip</guid>
             <pubDate>Wed, 29 Dec 2021 03:20:02 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:11]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Fimg1.kakaocdn.net%2Fkakaotv%2F2016%2Fcommon%2Fprofile%2Fthumb_default.jpg" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F353bec0c0e13dfd91c5286ca673d6afa2f24760e" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[완전 범죄(?)인 줄 알았던 '그 사건' 25년만에 목격자가 나타났다..!]]></title>
