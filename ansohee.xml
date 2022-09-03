@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 02:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 04:22:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[64회. 파워 J 소희의 진짜로 알찬 일주일 브이로그 | 침구 바꾸기, 필라테스, 드라마 촬영, 온호프]]></title>
+            <link>https://tv.kakao.com/channel/3817543/cliplink/431672527?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3817543/cliplink/431672527?act=clip</guid>
+            <pubDate>Sat, 03 Sep 2022 04:22:27 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>13:54]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd85ff9e596f2e1583891817e4ff0628f71019f94" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[63회. 김치말이밥에 이북식 만두, 바삭한 고추전까지🍽️]]></title>
             <link>https://tv.kakao.com/channel/3817543/cliplink/431463750?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/427334110?act=clip</guid>
             <pubDate>Fri, 25 Mar 2022 01:23:09 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>13:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8f5c60c86192966516cb21307ed47f12b5c14d55" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8f5c60c86192966516cb21307ed47f12b5c14d55" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[43회. 찐친들이랑 3박4일 제주도 호캉스🏔💛ㅣgrwm, 한라산 따기, ootd, 여행용품, 포도뮤지엄, 제주 카페, 그랜드하얏트]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Sat, 27 Aug 2022 11:19:52 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:54]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7206d463bb10db7b194f7efa4c31c2d5fae10673" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[24회. Fashion. 찬바람 불 땐🎏 사복소희다🕶️ 요즘 잘 입고 다니는 5가지 데일리룩 (ft. 랙앤본) l 코트, 푸퍼, 데님자켓, 기본템]]></title>
-            <link>https://tv.kakao.com/channel/3817543/cliplink/422991063?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3817543/cliplink/422991063?act=clip</guid>
-            <pubDate>Sat, 27 Aug 2022 11:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb5af89331bef815e93946a6e4c829b71765fed18" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
