@@ -1,7 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://MOVIECORD.github.io/kakaotv/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2022-09-21T13:58:45.768Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Combined feed</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 21 Sep 2022 14:44:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[챕터 3] 개장! 레드카펫 깔아라 여왕개미 오셨다 [개미는 오늘도 뚠뚠 챕터3] 예고 (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/416703697?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/416703697?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb9b531bf144a44d5dc3be2507d64bf5193004a6c" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[주식 인플루언서 노홍철 [개미는 오늘도 뚠뚠 챕터2] (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/416515078?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/416515078?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:51]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ffaa23eee250a0e2ca9f5d87b23407b39e11003d9" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[포트폴리오를 프로폴리스라 하던 애가 주식 1등 수익률을 냈다 [개미는 오늘도 뚠뚠 챕터2] (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/416514936?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/416514936?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:25]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb8d98f6307804e1825ef94378848e5e66c67d315" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[실제로 김프로도 하고 있는 3계좌 매매법 (극추천) [개미는 오늘도 뚠뚠 챕터2] (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/416514427?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/416514427?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:38]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9ae519ee8fbb0f46f0d546149386a0bafc813a5d" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[8회. 폐장! 수익률 1위는 누구? (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/416501615?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/416501615?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>37:10]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc35cf15a6f4289eb64ddd93e6d7fdd7b0db60f47" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[투자 전문가들도 놀란 동민개미의 탐욕ㄴㄴ 매매법! [개미는 오늘도 뚠뚠 챕터2] (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/416323295?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/416323295?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F62b9ef192cac0ec2506b71e532bc093d4c0c2c36" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[남 따라다니다 결국 아무것도 못 건진 당신을 위한 특급 진단 [개미는 오늘도 뚠뚠 챕터2] (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/416322885?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/416322885?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:08]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa1cf59ce536f5a370407984e8f23afd361f9e687" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[7회. 주식 환자들을 위한 투자종합검진! (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/416299656?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/416299656?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>38:52]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F5c800bbd41d73216fdff7e0476a08fa56a6cfec9" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[펀드는 안전하다고? 누가 그래?! 재테크 입문자 필수 고민! 주식 VS 펀드 [개미는 오늘도 뚠뚠 챕터2] (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/416125688?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/416125688?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:03]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F5f17bff52e5a0b8af4e697d512ffa99434fe9bf5" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[내 급여에 상한가가 있다고 생각해 보시라고요!!! 장동민의 기똥찬 비유 [개미는 오늘도 뚠뚠 챕터2] (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/416125687?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/416125687?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:08]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7256c4e3852e0ef232ffd23a92eb12b1643ef140" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[당신이 기다리는 조정은 아마 오지 않을 것이다 [개미는 오늘도 뚠뚠 챕터2] (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/416125674?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/416125674?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:14]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc83263dfc9edf6cf392c16df25e42dd46a54c79a" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[6회. [뚠뚠 토론회-2] 치열했던 개.오.뚠 경제토론 현장 (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/416093019?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/416093019?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>36:55]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F1f7e8cdb84d2a990f297152ec2b5a196b1bb76fc" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[서정진 회장님 존경합니다! 셀트리온으로 광명 찾은 기적의 개미님 [개미는 오늘도 뚠뚠 챕터2] (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/415925000?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/415925000?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:14]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ffc5216a51222e4480d88ab46554374eace0fa1cd" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[존버란 바로 이런 것 [개미는 오늘도 뚠뚠 챕터2] (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/415924999?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/415924999?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:29]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2c8bfd87e029446f809de4bd95407ae2e01fa5c6" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[제가 제대로 들은게 맞나요...?(귀를 의심) [개미는 오늘도 뚠뚠 챕터2] (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/415923685?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/415923685?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>02:35]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F69cdeef241f31daccfa4a893a3bc852fd5efcac4" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[5회. [뚠뚠 토론회-1] 대한민국 경제, 개미들이 말한다 (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/415889726?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/415889726?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>39:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fda2aa87db3309fe073faf30755bf52001be8c682" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[프로님들 종목 다~ 털어드립니다^^ [개미는 오늘도 뚠뚠 챕터2] (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/415726143?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/415726143?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:58]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F567e89ab2683661ed37839fde8a83d91f6ec12eb" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[역대급 가성비로 프로들 관심종목 뽑아내기 대성공! [개미는 오늘도 뚠뚠 챕터2] (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/415726134?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/415726134?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:34]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6627553e977ed332e1081ad405657923c83c2801" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[주식 버전 술게임에서 프로들 종목 줍줍하는 개미들 [개미는 오늘도 뚠뚠 챕터2] (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/415726130?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/415726130?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ffc806d5e0326ff2fe7a6f028b5aa91440e5c6138" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[4회. 개미들의 캠핑장 놀이법은? (응 주식^^) (kakaoTV ─ 개미는 오늘도 뚠뚠 챕터2)]]></title>
+            <link>https://tv.kakao.com/channel/3717609/cliplink/415698645?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3717609/cliplink/415698645?act=clip</guid>
+            <pubDate>Wed, 21 Sep 2022 14:32:13 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>34:50]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd17ae803220c6afe672a152efc6e56394d9b2d93" length="0" type="image/q75/"/>
+        </item>
+    </channel>
+</rss>
