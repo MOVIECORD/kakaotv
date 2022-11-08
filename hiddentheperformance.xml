@@ -1,8 +1,171 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://tv.kakao.com/channel/3879256/video</id>
-    <title>kakaoTV ─ 히든 더 퍼포먼스</title>
-    <updated>2022-11-08T08:32:07.579Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://img1.kakaocdn.net/kakaotv/services/2020/icon/icon-16.png</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>kakaoTV ─ 히든 더 퍼포먼스</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 08 Nov 2022 09:23:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[5회. 왜요? 제가 히.더.퍼 최고의 퍼포머처럼 보이시나요?]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/423283606?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/423283606?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>34:20]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd1bc0345b734e592bc57fa14cc4eb818bdc7e2da" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[호킵이 있는 곳이 곧 무대✨]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/423180600?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/423180600?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:46]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdbca04409d76c22e68ff884c786d95067686e151" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[챌린지 천재만재 브라더빈 님이 입장하셨습니다♡]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/423180560?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/423180560?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:41]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc2fbb4b654d74e61f3e3718068f0e0d6d6369830" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[우주최강 텃팅 금손 TPF가 나가신다📢]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/423180529?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/423180529?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:39]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2bee6b0b200240c38c0fef23d22a260fcd5e29da" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[이것은 빅맨 입👄에서 나는 소리가 절대 맞습니다]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/423180473?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/423180473?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:50]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe1efcb79c92fc82c04f53aa934e61551f8a8acf1" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[🎵 Up&Down - 픽보이&키노 with 브라더빈]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/423104568?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/423104568?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:24]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6536b93b69755d8cb07b59e1cd74c6a13f3eb2e6" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[🎵 HELLO RYAN - 보이비&행주 with 빅맨]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/423104448?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/423104448?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:50]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F17ef634ca5256cd91447b55a8c6d3bbbf30d5072" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[🎵 Pull me down - 자이로&정세운 with 호킵]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/423104332?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/423104332?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:53]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Facb3f46530be7fe3c6f9fa5c4b462aa414c7f290" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[🎵 MMM - 한해&태일 with TPF]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/423104195?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/423104195?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:16]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8d33e906138998d1dae6cb4b7239e6ea2e0fe823" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[4회. 히.더.퍼가 포포몬쓰 맛집으로 초대합니다💌]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/423101676?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/423101676?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>26:43]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbea08d6fca8f671d5ca9f8041d43e253ee076d6c" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[이거 이해되는 사람 있나요...? 포뇨와 스누피의 신나는 미술시간😆]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/422923454?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/422923454?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:09]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fae5a2768d7b903db021be1f37f72bcbf20c046a9" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[엘렌쇼 섭외 또 들어오면 행주랑 픽보이랑 같이 가겠다는 빅맨ㅋㅋㅋ]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/422923451?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/422923451?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:23]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7df5ac4e66c45a983bd6ee0450ee1247a24cedc9" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[틱★에서 모르는 사람 없다는 그 춤? 창시자 브라더빈의 so sweet 챌린지 특강!]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/422923441?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/422923441?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>04:34]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F408da14e2a57a76012d1e4701ab27d12a20830e1" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[3회. 철이 없었죠, 뮤즈♡TOP4의 만남을 놓쳤다는 게...]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/422918803?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/422918803?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>32:27]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc1c5dc4f47f73c0a977db667354dee6ba761dedc" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[팬잘알 히.더.퍼의 컬래버 퍼포머 영상.zip🏠]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/422726736?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/422726736?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:23]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff858bbe5d71dfab4a6d823073557ba8874238da7" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[이런 음악으로 취향 저격할 수 있다고 생각하신다면.. 크나큰 오예 입니다♥]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/422565567?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/422565567?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:09]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff5ba436b6bf8dd9471de6454ad69c1e57081184b" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[살기(?)가 느껴지는 퍼포먼스?! 뮤즈들을 제대로 홀려버린 퍼포머 군단⚡]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/422565464?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/422565464?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>05:47]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd72a38f59a448c66e29bff2be661d08eeb9efcca" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[포모스 선정 한 팀 고르기 세상에서 제일 어려운 영상.mp4]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/422565454?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/422565454?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>07:18]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd991f738b1f21bc11150472878921050b5ced011" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[Full Clip] 호킵 - instagram]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/422563353?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/422563353?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:26]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc5cd4a530dbafd202ec516299b30fad7c6f7f9f6" length="0" type="image/q75/"/>
+        </item>
+        <item>
+            <title><![CDATA[[Full Clip] 트루킴 - Dangya(땡겨)]]></title>
+            <link>https://tv.kakao.com/channel/3879256/cliplink/422563343?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3879256/cliplink/422563343?act=clip</guid>
+            <pubDate>Tue, 08 Nov 2022 09:23:25 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>03:09]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F16c8338961a5d37036599f220feffc1d686253f8" length="0" type="image/q75/"/>
+        </item>
+    </channel>
+</rss>
