@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 01:50:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 03:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[74회. 이게 다 몇 개야😅 싹 완판하고 돌아온 플리마켓 브이로그 | 닥터마틴, 아미, 메종키츠네, 준지]]></title>
+            <link>https://tv.kakao.com/channel/3817543/cliplink/433604609?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3817543/cliplink/433604609?act=clip</guid>
+            <pubDate>Sat, 19 Nov 2022 03:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>12:56]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6b1239becdab0fbd9d5d7c9f3c513496f93174c0" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[73회. 호캉스 VLOG😎💛 | 워커힐 더 글라스, what’s in my luggage, 깜짝생일파티]]></title>
             <link>https://tv.kakao.com/channel/3817543/cliplink/433425547?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/429436652?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:02]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd1190c82bb57a134e793ea6479427937b902ce99" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fd1190c82bb57a134e793ea6479427937b902ce99" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[53회. 👥웅성웅성..온호프 팝업한대! 선물도 준대!💐🙌🏻ㅣ프래그런스미스트, apLab, 아모레퍼시픽]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:09]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F191841bbc1d5ae702d152084f884190d2fb3e72f" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[34회. 78가지 예쁜 컵,그릇 모두 꺼내봤어요🥣 | 접시,티팟,법랑접시,도자기 그릇,머그컵,자취템]]></title>
-            <link>https://tv.kakao.com/channel/3817543/cliplink/424682706?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3817543/cliplink/424682706?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F81722c0cb8a4f1c2c2506782aa8d628db3c87bd6" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
