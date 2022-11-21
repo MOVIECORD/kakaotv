@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 12:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 13:45:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3317,7 +3317,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/433604609?act=clip</guid>
             <pubDate>Sat, 19 Nov 2022 03:13:38 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>12:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6b1239becdab0fbd9d5d7c9f3c513496f93174c0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6b1239becdab0fbd9d5d7c9f3c513496f93174c0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[73회. 호캉스 VLOG😎💛 | 워커힐 더 글라스, what’s in my luggage, 깜짝생일파티 (kakaoTV ─ 안소희)]]></title>
