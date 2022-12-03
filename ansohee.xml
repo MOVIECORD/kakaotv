@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 02:39:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 03:21:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[75회. 한국인의 소울푸드, 경양식 왕돈까스🍴]]></title>
+            <link>https://tv.kakao.com/channel/3817543/cliplink/433940499?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3817543/cliplink/433940499?act=clip</guid>
+            <pubDate>Sat, 03 Dec 2022 03:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:51]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F1362cf58c9fe87d7f2440acd39bd5fd57972ccb3" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[74회. 이게 다 몇 개야😅 싹 완판하고 돌아온 플리마켓 브이로그 | 닥터마틴, 아미, 메종키츠네, 준지]]></title>
             <link>https://tv.kakao.com/channel/3817543/cliplink/433604609?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/429631004?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>16:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff0dfddba5d5494da80df2ac2c4df014610357d43" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff0dfddba5d5494da80df2ac2c4df014610357d43" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[54회. 내새꾸들 하나씩 모으다보니..23개?🤭👜🧡ㅣ첫 명품가방 추천, 가방관리법, 명품 입문백]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>10:55]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4db2d792586d63a34529ef85a9fd14ab043eaf42" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[35회. Fashion. 갖고 있는 옷들로 연말 분위기 내는 법(ft.6가지 연말룩)🎅🏻🎄ㅣ코트 추천,니트,가방,악세사리,데이트룩]]></title>
-            <link>https://tv.kakao.com/channel/3817543/cliplink/424960269?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3817543/cliplink/424960269?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F191841bbc1d5ae702d152084f884190d2fb3e72f" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
