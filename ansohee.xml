@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Dec 2022 02:35:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Dec 2022 03:19:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[76회. 찐으로 써보고 추천하는 연말 선물템 20가지 🎁✨❤️ (ft.이벤트) / 와인, 러그 매트, 타올, 헤어브러쉬, 양말, 팔찌, 접시, 컵, 립밤]]></title>
+            <link>https://tv.kakao.com/channel/3817543/cliplink/434298059?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3817543/cliplink/434298059?act=clip</guid>
+            <pubDate>Sat, 17 Dec 2022 03:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>16:51]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ffbce80b718f04c49d26fbbf6cb0845a01691e7fc" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[75회. 한국인의 소울푸드, 경양식 왕돈까스🍴]]></title>
             <link>https://tv.kakao.com/channel/3817543/cliplink/433940499?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/429829686?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:09]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9ffcb46c0657758ed220dd7717feb22261c1a45c" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9ffcb46c0657758ed220dd7717feb22261c1a45c" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[55회. 세상 힙하고 맛나게 강원도 다녀오는 법이랄까..😎🏖(ft.지글지글)ㅣ티셔츠 코디, 마켓컬리 솧찐템]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>13:15]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F896c27dd26746a1c00369f56c2db436dc8d246b4" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[36회. 2021년 솧튜브 어워즈👑미공개 에피소드부터 1위 콘텐츠 시상식까지🥳ㅣ연말결산, 콘텐츠리뷰]]></title>
-            <link>https://tv.kakao.com/channel/3817543/cliplink/425164260?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3817543/cliplink/425164260?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>10:55]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4db2d792586d63a34529ef85a9fd14ab043eaf42" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
