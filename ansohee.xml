@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Dec 2022 02:38:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Dec 2022 03:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[77회. 열심히 일하고 열심히 즐긴 연말 일상💝 | mama 시상식, 일본여행, 미씽 첫 방, 수락산 등산]]></title>
+            <link>https://tv.kakao.com/channel/3817543/cliplink/434497681?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3817543/cliplink/434497681?act=clip</guid>
+            <pubDate>Sat, 24 Dec 2022 03:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:31]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbd1c5de285f3cd2bea40364151d3cb83ceeb1cfc" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[76회. 찐으로 써보고 추천하는 연말 선물템 20가지 🎁✨❤️ (ft.이벤트) / 와인, 러그 매트, 타올, 헤어브러쉬, 양말, 팔찌, 접시, 컵, 립밤]]></title>
             <link>https://tv.kakao.com/channel/3817543/cliplink/434298059?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/428886306?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:56]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fcfacb89fed7cac8ca955ebb466359a0f89f4ca82" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fcfacb89fed7cac8ca955ebb466359a0f89f4ca82" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[49회. 용리단길 맛집이랑 카페 갔다가 전시회까지🚶🏻‍♀️🎨 (ft. 구독자 이벤트) | 아모레미술관, 안드레아스거스키, 오오티디]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 22 Dec 2022 23:22:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>08:10]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6f47cf54f3987077179dcfb258eb295022c01c68" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[24회. Fashion. 찬바람 불 땐🎏 사복소희다🕶️ 요즘 잘 입고 다니는 5가지 데일리룩 (ft. 랙앤본) l 코트, 푸퍼, 데님자켓, 기본템]]></title>
-            <link>https://tv.kakao.com/channel/3817543/cliplink/422991063?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3817543/cliplink/422991063?act=clip</guid>
-            <pubDate>Thu, 22 Dec 2022 23:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb5af89331bef815e93946a6e4c829b71765fed18" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
