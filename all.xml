@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 02:45:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 03:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3316,8 +3316,8 @@
             <link>https://tv.kakao.com/channel/3817543/cliplink/434497681?act=clip</link>
             <guid>https://tv.kakao.com/channel/3817543/cliplink/434497681?act=clip</guid>
             <pubDate>Sat, 24 Dec 2022 03:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:31]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbd1c5de285f3cd2bea40364151d3cb83ceeb1cfc" length="0" type="image/q75/"/>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:25]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbd1c5de285f3cd2bea40364151d3cb83ceeb1cfc" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[76회. 찐으로 써보고 추천하는 연말 선물템 20가지 🎁✨❤️ (ft.이벤트) / 와인, 러그 매트, 타올, 헤어브러쉬, 양말, 팔찌, 접시, 컵, 립밤 (kakaoTV ─ 안소희)]]></title>
