@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Jan 2023 02:45:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Jan 2023 03:21:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[80회. 삿포로 여행 브이로그❄️ | 비에이, 흰수염 폭포, 닝구르 테라스, 징기스칸 양고기, 밀크무라]]></title>
+            <link>https://tv.kakao.com/channel/3817543/cliplink/435346393?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3817543/cliplink/435346393?act=clip</guid>
+            <pubDate>Sat, 28 Jan 2023 03:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>18:02]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F80f2de0e074b2d3540a4dbea1cf769dc4fefe69a" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[79회. 중요한 건 제이지를 향한 꺾이지 않는 마음💛🖤]]></title>
             <link>https://tv.kakao.com/channel/3817543/cliplink/435208021?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/429631004?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>16:01]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff0dfddba5d5494da80df2ac2c4df014610357d43" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff0dfddba5d5494da80df2ac2c4df014610357d43" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[54회. 내새꾸들 하나씩 모으다보니..23개?🤭👜🧡ㅣ첫 명품가방 추천, 가방관리법, 명품 입문백]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 22 Dec 2022 23:22:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>12:58]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F28d6044ad182b33832901178fea92a107269001d" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[29회. 17가지 로퍼&부츠 컬렉션🥿👢10년 신을 수 있는 팁까지!ㅣ토즈, 샤넬, 셀린, 프라다, 캠퍼, 오프닝세레모니, 보테가베네타]]></title>
-            <link>https://tv.kakao.com/channel/3817543/cliplink/423817931?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3817543/cliplink/423817931?act=clip</guid>
-            <pubDate>Thu, 22 Dec 2022 23:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:32]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa13b10e820ec3ac06fe19564b42aba93d324ccae" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
