@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 02:50:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 03:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[83회. 봄이 왔솧🌼 같이 쇼핑해요🛍(feat. 에잇세컨즈)]]></title>
+            <link>https://tv.kakao.com/channel/3817543/cliplink/435859378?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3817543/cliplink/435859378?act=clip</guid>
+            <pubDate>Sat, 18 Feb 2023 03:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>16:20]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F610c48d017762e6fe3d4980038c9227d574088c6" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[82회. 잠실 소피텔 2박3일 호캉스🎠✨| 페메종, 컨플릭트 스토어, 메종 마르지엘라 향수, 더 이탈리안 클럽]]></title>
             <link>https://tv.kakao.com/channel/3817543/cliplink/435709922?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/430941456?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>13:08]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8f9691f161025f0f5f404ab34b44116d4d339313" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8f9691f161025f0f5f404ab34b44116d4d339313" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[58회. 믿고 사는 솧찐템! 2022 상반기 결산편 😎 | 뷰티부터 식품, 패션 리빙까지! | 두피 케어, 반신욕 레시피, 영양제, 데님, 귀걸이, 슈즈]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Thu, 22 Dec 2022 23:22:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:06]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F81722c0cb8a4f1c2c2506782aa8d628db3c87bd6" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[33회. Vlog. 요즘 잘 쓰는 겨울 모자&니트 13개👒🧣 (ft. 제주도 홍보대사) | 미공개 영상,성수동 와인바, 간식 쇼핑]]></title>
-            <link>https://tv.kakao.com/channel/3817543/cliplink/424583914?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3817543/cliplink/424583914?act=clip</guid>
-            <pubDate>Thu, 22 Dec 2022 23:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>09:04]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4c2ccf40271b2651825ed511fd3bdaee69bac4bf" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
