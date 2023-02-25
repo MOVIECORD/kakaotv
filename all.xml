@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 02:51:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 03:24:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -3312,6 +3312,14 @@
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbf5c2f3d2273ac4df8b8dbbcab5aa0749ad45287" length="0" type="image/q75/"/>
         </item>
         <item>
+            <title><![CDATA[84회. 인생 첫 스키를 탔습니다!🤯⛷🎿 (kakaoTV ─ 안소희)]]></title>
+            <link>https://tv.kakao.com/channel/3817543/cliplink/436033933?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3817543/cliplink/436033933?act=clip</guid>
+            <pubDate>Sat, 25 Feb 2023 03:24:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>16:40]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9d7e973685dd60495e5814dc0b5965f2e356b1b2" length="0" type="image/q75/"/>
+        </item>
+        <item>
             <title><![CDATA[83회. 봄이 왔솧🌼 같이 쇼핑해요🛍(feat. 에잇세컨즈) (kakaoTV ─ 안소희)]]></title>
             <link>https://tv.kakao.com/channel/3817543/cliplink/435859378?act=clip</link>
             <guid>https://tv.kakao.com/channel/3817543/cliplink/435859378?act=clip</guid>
@@ -3469,7 +3477,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/431289531?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>11:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3a52e13b3af2167e53a15b1411827a37a0630063" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3a52e13b3af2167e53a15b1411827a37a0630063" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[60회. 소희의 찐 나이트 스킨케어 루틴! 근데 이제 티타임 수다를 곁들인…☕️ | 데일리 스킨케어, 폼 롤러 스트레칭 (kakaoTV ─ 안소희)]]></title>
@@ -3622,14 +3630,6 @@
             <pubDate>Thu, 22 Dec 2022 23:22:12 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:09]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F191841bbc1d5ae702d152084f884190d2fb3e72f" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[34회. 78가지 예쁜 컵,그릇 모두 꺼내봤어요🥣 | 접시,티팟,법랑접시,도자기 그릇,머그컵,자취템 (kakaoTV ─ 안소희)]]></title>
-            <link>https://tv.kakao.com/channel/3817543/cliplink/424682706?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3817543/cliplink/424682706?act=clip</guid>
-            <pubDate>Thu, 22 Dec 2022 23:22:12 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F81722c0cb8a4f1c2c2506782aa8d628db3c87bd6" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[이 뽀짝함 절대 못 보내😭 눈물 아닌 웃음 가득한 마지막 인사❤ (kakaoTV ─ 우수무당 가두심)]]></title>
