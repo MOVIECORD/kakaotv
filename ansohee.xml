@@ -4,9 +4,17 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Apr 2023 02:34:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Apr 2023 03:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[87회. 비빔밥&소주 좋아💛 삼순이 언니 맛잘알이었네👏]]></title>
+            <link>https://tv.kakao.com/channel/3817543/cliplink/436893596?act=clip</link>
+            <guid>https://tv.kakao.com/channel/3817543/cliplink/436893596?act=clip</guid>
+            <pubDate>Sat, 01 Apr 2023 03:19:16 GMT</pubDate>
+            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>13:56]]></content:encoded>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6426886f666dd4fe9c590afed794e65c640b81e6" length="0" type="image/q75/"/>
+        </item>
         <item>
             <title><![CDATA[86회. 💛증명사진 메이크업과 구독자 이벤트💖 | GRWM, 눈 화장 꿀팁, 시현하다]]></title>
             <link>https://tv.kakao.com/channel/3817543/cliplink/436553460?act=clip</link>
@@ -165,7 +173,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/432192057?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:25 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>12:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbb980db59b56ccbb661dc4352b995717b836929e" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbb980db59b56ccbb661dc4352b995717b836929e" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[65회. 따뜻한 무드의 웜톤 가을 메이크업 🍂 그리고 50문 50답을 곁들인…🤎 | 겟레디윗미, GRWM, 무쌍 메이크업]]></title>
@@ -318,14 +326,6 @@
             <pubDate>Wed, 16 Nov 2022 17:35:26 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>09:43]]></content:encoded>
             <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F094da280af8ae5df0a1bcab0479ad7f3656fab83" length="0" type="image/q75/"/>
-        </item>
-        <item>
-            <title><![CDATA[37회. Vlog. 새해 위시리스트 10개 채우기! 솧 캔 두잇?🤔ㅣ영양제 챙겨먹기,스티커컬러링북,독서,다이어트,여행]]></title>
-            <link>https://tv.kakao.com/channel/3817543/cliplink/425641668?act=clip</link>
-            <guid>https://tv.kakao.com/channel/3817543/cliplink/425641668?act=clip</guid>
-            <pubDate>Wed, 16 Nov 2022 17:35:26 GMT</pubDate>
-            <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>13:15]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F896c27dd26746a1c00369f56c2db436dc8d246b4" length="0" type="image/q75/"/>
         </item>
     </channel>
 </rss>
