@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 톡이나 할까</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 04:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 05:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -293,7 +293,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423172653?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 19:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>25:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4d7c3de7329e819ea98424f8dd2a5f1fa8c39efa" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4d7c3de7329e819ea98424f8dd2a5f1fa8c39efa" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[관상만으로 MBTI를 맞춰버린 소개팅녀! "혹시.. 우리 궁합은 어때요?"]]></title>
@@ -317,7 +317,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/422991160?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 19:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>24:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F80806b13186efa4191a43e789adae6469a5be9b0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F80806b13186efa4191a43e789adae6469a5be9b0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[오직 톡이나 에서만! 정규앨범에도 없을 십센치 신곡 대공개]]></title>

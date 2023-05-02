@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 우수무당 가두심</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 04:20:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 05:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -181,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3841507/cliplink/422380299?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>18:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2714c0e8e9622bd32a1c479deb306e306a18f1f2" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2714c0e8e9622bd32a1c479deb306e306a18f1f2" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[(소근소근) 송영고는 연기 천재들만 다닌대요]]></title>
@@ -269,7 +269,7 @@
             <guid>https://tv.kakao.com/channel/3841507/cliplink/422006341?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc93ad19f4dda5c925165beebc8468bc7828ae581" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc93ad19f4dda5c925165beebc8468bc7828ae581" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[MV] 유선호 - Forever Smile [우수무당 가두심] OST part.3]]></title>

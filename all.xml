@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 04:20:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 05:18:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -293,7 +293,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423172653?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 19:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>25:46]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4d7c3de7329e819ea98424f8dd2a5f1fa8c39efa" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4d7c3de7329e819ea98424f8dd2a5f1fa8c39efa" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[관상만으로 MBTI를 맞춰버린 소개팅녀! "혹시.. 우리 궁합은 어때요?" (kakaoTV ─ 톡이나 할까)]]></title>
@@ -317,7 +317,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/422991160?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 19:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>24:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F80806b13186efa4191a43e789adae6469a5be9b0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F80806b13186efa4191a43e789adae6469a5be9b0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[오직 톡이나 에서만! 정규앨범에도 없을 십센치 신곡 대공개 (kakaoTV ─ 톡이나 할까)]]></title>
@@ -1229,7 +1229,7 @@
             <guid>https://tv.kakao.com/channel/3647847/cliplink/414429178?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb163574d5af7a2084b15f323192fd80f46e04f3b" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb163574d5af7a2084b15f323192fd80f46e04f3b" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[13회. Chapter1 총정리 스페셜-1 (kakaoTV ─ 개미는 오늘도 뚠뚠)]]></title>
@@ -1237,7 +1237,7 @@
             <guid>https://tv.kakao.com/channel/3647847/cliplink/414342526?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>14:36]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe68cab84bd2a0aff18ce5161c65f4ff7a2a0f170" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe68cab84bd2a0aff18ce5161c65f4ff7a2a0f170" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[12회. 기본편 마무리! 개미들은 여전히 뚠뚠 (kakaoTV ─ 개미는 오늘도 뚠뚠)]]></title>
@@ -1245,7 +1245,7 @@
             <guid>https://tv.kakao.com/channel/3647847/cliplink/414145725?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F070751179bdb24b887af74def20f3eeeb1bafc97" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F070751179bdb24b887af74def20f3eeeb1bafc97" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[11회. 동학에서 서학으로! 해외주식 (kakaoTV ─ 개미는 오늘도 뚠뚠)]]></title>
@@ -1253,7 +1253,7 @@
             <guid>https://tv.kakao.com/channel/3647847/cliplink/413843502?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>24:29]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7d98fb00127fa6eb656d7c63a80f6d098f403986" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7d98fb00127fa6eb656d7c63a80f6d098f403986" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[10회. 한국 경제사에 길이 남을 레전설의 탄생?! (kakaoTV ─ 개미는 오늘도 뚠뚠)]]></title>
@@ -1261,7 +1261,7 @@
             <guid>https://tv.kakao.com/channel/3647847/cliplink/413712457?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>23:19]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff66929ae0cbc8fe9df05ea1091b71a5babcf7125" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff66929ae0cbc8fe9df05ea1091b71a5babcf7125" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[9회. 주식 흐름 읽는 법! 차트의 정석 (kakaoTV ─ 개미는 오늘도 뚠뚠)]]></title>
@@ -1269,7 +1269,7 @@
             <guid>https://tv.kakao.com/channel/3647847/cliplink/413553381?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>22:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F35923a98db68905a8599b0b915b44bdc3f4c7af6" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F35923a98db68905a8599b0b915b44bdc3f4c7af6" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[찬바람 불 때 난 배당주를 사...★ [개미는 오늘도 뚠뚠] (kakaoTV ─ 개미는 오늘도 뚠뚠)]]></title>
@@ -1309,7 +1309,7 @@
             <guid>https://tv.kakao.com/channel/3647847/cliplink/413360221?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>22:37]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdb415ad89a2b1ec8e0845484967669f0cda9adaa" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fdb415ad89a2b1ec8e0845484967669f0cda9adaa" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[1분 1초가 아까운 단타 야수 딘딘, 결국 폭발하다? [개미는 오늘도 뚠뚠] (kakaoTV ─ 개미는 오늘도 뚠뚠)]]></title>
@@ -1341,7 +1341,7 @@
             <guid>https://tv.kakao.com/channel/3647847/cliplink/413176395?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>20:45]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75901abe831e2db84b66010cc3c91d53ea9df6d3" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F75901abe831e2db84b66010cc3c91d53ea9df6d3" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[바보美 뿜뿜에 절로 박수가 나오는 김종민의 13년 주식 이야기 ㅋㅋㅋ [개미는 오늘도 뚠뚠] (kakaoTV ─ 개미는 오늘도 뚠뚠)]]></title>
@@ -1373,7 +1373,7 @@
             <guid>https://tv.kakao.com/channel/3647847/cliplink/412964266?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:47]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7355517e1c6147beaccb9ddfdcbf4102c5619b04" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7355517e1c6147beaccb9ddfdcbf4102c5619b04" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[5회. 주식거래 떡상 기원! Be the Reds (kakaoTV ─ 개미는 오늘도 뚠뚠)]]></title>
@@ -1381,7 +1381,7 @@
             <guid>https://tv.kakao.com/channel/3647847/cliplink/412833458?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa18fe813f4c92fb7dff8e8d668d65a1235cdea31" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fa18fe813f4c92fb7dff8e8d668d65a1235cdea31" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[의외로 단타 야수?! 모두가 궁금했던 김프로의 보유 종목은?🤩 [개미는 오늘도 뚠뚠] (kakaoTV ─ 개미는 오늘도 뚠뚠)]]></title>
@@ -1413,7 +1413,7 @@
             <guid>https://tv.kakao.com/channel/3647847/cliplink/412641368?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>20:00]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6928de2dd21a31c5ca2abfa95bbd74fcfb22b000" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6928de2dd21a31c5ca2abfa95bbd74fcfb22b000" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[딘딘 주식창은 또 물보라를 일으켜~🌊 제대로 돈쭐나는📉 단타야수 딘딘!   [개미는 오늘도 뚠뚠] (kakaoTV ─ 개미는 오늘도 뚠뚠)]]></title>
@@ -1469,7 +1469,7 @@
             <guid>https://tv.kakao.com/channel/3647847/cliplink/412443593?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8affb3162085bad6b21ccb0afd7e298bb6d2270e" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F8affb3162085bad6b21ccb0afd7e298bb6d2270e" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[계좌 트고 미친 듯이 폭주하는🐎🐎 딘딘ㅋㅋㅋ누가 딘딘 좀 말려줘요;;🙏 [개미는 오늘도 뚠뚠] (kakaoTV ─ 개미는 오늘도 뚠뚠)]]></title>
@@ -1501,7 +1501,7 @@
             <guid>https://tv.kakao.com/channel/3647847/cliplink/412243023?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:18 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe63959b30fbe3dc9a2099d97e4f89f45c1ec6e4b" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe63959b30fbe3dc9a2099d97e4f89f45c1ec6e4b" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[주식, 가상화폐, 다음은 인버th...?🤦고개숙인 전문가, 딘딘의 폭소, 어리둥절 김가영 [개미는 오늘도 뚠뚠] (kakaoTV ─ 개미는 오늘도 뚠뚠)]]></title>
@@ -1645,7 +1645,7 @@
             <guid>https://tv.kakao.com/channel/3879256/cliplink/422918803?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:06 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>32:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc1c5dc4f47f73c0a977db667354dee6ba761dedc" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc1c5dc4f47f73c0a977db667354dee6ba761dedc" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[팬잘알 히.더.퍼의 컬래버 퍼포머 영상.zip🏠 (kakaoTV ─ 히든 더 퍼포먼스)]]></title>
@@ -1981,7 +1981,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/422947359?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:39]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F5d921fece902dfdce37e107fd61f4ec64b60c730" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F5d921fece902dfdce37e107fd61f4ec64b60c730" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[12회. 생선손질의 길 (kakaoTV ─ 런웨이2)]]></title>
@@ -2021,7 +2021,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/422061315?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:44]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6d2ad63c853dd6ee45525e1d92b8ee33c667b310" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6d2ad63c853dd6ee45525e1d92b8ee33c667b310" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[7회. 드론의 길 (kakaoTV ─ 런웨이2)]]></title>
@@ -2029,7 +2029,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/421882215?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>18:22]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe5d64732cdddde7c0fadd296192ff934eac7217d" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fe5d64732cdddde7c0fadd296192ff934eac7217d" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[6회. 웹툰의 길 (kakaoTV ─ 런웨이2)]]></title>
@@ -2037,7 +2037,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/421691866?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F93c29f04db05f482523beb46358a0cc675af3ef1" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F93c29f04db05f482523beb46358a0cc675af3ef1" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[5회. 카카오웹툰의 길 (kakaoTV ─ 런웨이2)]]></title>
@@ -2053,7 +2053,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/421336149?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>16:11]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F677a5ca64d9c462beb8d22025ddaa6a408559e68" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F677a5ca64d9c462beb8d22025ddaa6a408559e68" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[3회. 댄스 스포츠의 길 (kakaoTV ─ 런웨이2)]]></title>
@@ -2069,7 +2069,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/420998034?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:51]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbc84f5bb104ae35e5f07f868323f2e2162f7ff49" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbc84f5bb104ae35e5f07f868323f2e2162f7ff49" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[1회. 치어리더의 길 (kakaoTV ─ 런웨이2)]]></title>
@@ -2085,7 +2085,7 @@
             <guid>https://tv.kakao.com/channel/3843430/cliplink/420625203?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:16 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>06:36]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbf5c2f3d2273ac4df8b8dbbcab5aa0749ad45287" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fbf5c2f3d2273ac4df8b8dbbcab5aa0749ad45287" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[90회. 📍덕수궁 같이 갈래?🎨 | 에드워드 호퍼, 커피앤시가렛,마이 초이스, 더블유디에이치, 마이시크릿덴 (kakaoTV ─ 안소희)]]></title>
@@ -2581,7 +2581,7 @@
             <guid>https://tv.kakao.com/channel/3841507/cliplink/422380299?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>18:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2714c0e8e9622bd32a1c479deb306e306a18f1f2" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2714c0e8e9622bd32a1c479deb306e306a18f1f2" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[(소근소근) 송영고는 연기 천재들만 다닌대요 (kakaoTV ─ 우수무당 가두심)]]></title>
@@ -2669,7 +2669,7 @@
             <guid>https://tv.kakao.com/channel/3841507/cliplink/422006341?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc93ad19f4dda5c925165beebc8468bc7828ae581" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc93ad19f4dda5c925165beebc8468bc7828ae581" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[MV] 유선호 - Forever Smile [우수무당 가두심] OST part.3 (kakaoTV ─ 우수무당 가두심)]]></title>
