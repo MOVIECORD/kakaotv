@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 찐경규</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 05:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 06:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -141,7 +141,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/424710743?act=clip</guid>
             <pubDate>Mon, 01 May 2023 13:20:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>25:57]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6bc6d37d31342160d28e2efdcf82bf5311400c30" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6bc6d37d31342160d28e2efdcf82bf5311400c30" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[내 결혼식에 유느님이 오신다구요..?! 장인어른 최고..bb]]></title>
@@ -253,7 +253,7 @@
             <guid>https://tv.kakao.com/channel/3643851/cliplink/423955699?act=clip</guid>
             <pubDate>Mon, 01 May 2023 13:20:55 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>18:49]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F073e4f1d0041ea8b1dc76a6638f175ae802568b0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F073e4f1d0041ea8b1dc76a6638f175ae802568b0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[이승철 앞에서 원키로 말리꽃 부르는 모트PD... (이국종 교수님이 와도 못 살림...)]]></title>

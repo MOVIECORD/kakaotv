@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 더듬이TV 우당탕탕 안테나</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 05:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 06:23:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -157,7 +157,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/424463611?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>35:26]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7e2a82197237861d48deb1019db5261754c1bd62" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7e2a82197237861d48deb1019db5261754c1bd62" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[(Full) 우당탕탕 안테나 300만 기념 미니콘서트 다시보기]]></title>
@@ -181,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/424419267?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>01:58]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3324156083b7eb51d59291991c0cca06ed7353e1" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F3324156083b7eb51d59291991c0cca06ed7353e1" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[9-2회. Everything is OK 2 with 우당테나 : [충격] 고지를 받았습니다 👼🏻 "너의 고막👂은... 오늘... 천국에 간다〰️❕"]]></title>
@@ -197,7 +197,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/424371149?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>00:45]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4408e749a6f45971deed3dbf803c973f3cb3bf9e" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F4408e749a6f45971deed3dbf803c973f3cb3bf9e" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[이진아에게 노래 뺏긴(?) 주접킹 적재 "진아 눈에 별이 있으면 나는 어떡해...? >.<"]]></title>
@@ -293,7 +293,7 @@
             <guid>https://tv.kakao.com/channel/3883129/cliplink/424004234?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:33:08 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>22:10]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff8411047cbdce56c490fe7fe3ba137b20b098af0" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Ff8411047cbdce56c490fe7fe3ba137b20b098af0" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[댄스가수가 꿈이었던(?) 권진아가 안테나에서 쓴 자작곡 <여행가> Full ver.]]></title>
