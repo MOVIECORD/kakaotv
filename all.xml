@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 03:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 04:20:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -2093,7 +2093,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/437619845?act=clip</guid>
             <pubDate>Sat, 29 Apr 2023 03:19:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>15:21]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fef26461e3f87449f91709be4e5935219695db37c" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fef26461e3f87449f91709be4e5935219695db37c" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[89회. 캠핑 브이로그🏕️ 에피타이저부터 메인요리에 스모어쿠키까지…🧡 (kakaoTV ─ 안소희)]]></title>
