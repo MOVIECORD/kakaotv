@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 톡이나 할까</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 06:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 07:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -157,7 +157,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423928291?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 19:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>26:27]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7eb5ab4a1a41e3a95aa015d7d4e840903b24c4f2" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7eb5ab4a1a41e3a95aa015d7d4e840903b24c4f2" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[(수능 D-9) 순례길에서 수능을 때려치고 온 고3을 만났다.]]></title>
@@ -189,7 +189,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423744057?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 19:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>25:38]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6d5e8300c0d2ae70fa1212e7759393c7a63a4cd2" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F6d5e8300c0d2ae70fa1212e7759393c7a63a4cd2" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[61회. 임창정]]></title>
@@ -197,7 +197,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423566557?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 19:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>25:14]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F495e6ab9c05bee60063bec2ceddd8a03886b1f03" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F495e6ab9c05bee60063bec2ceddd8a03886b1f03" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[오징어게임 말고 새우게임 꼬막게임 다 하고 싶은 임창정...ㅋㅋ 섭외해 주세요~~]]></title>
@@ -253,7 +253,7 @@
             <guid>https://tv.kakao.com/channel/3647846/cliplink/423359001?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 19:17:03 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>28:42]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F1054e71f76f5c25e634c4c799194a01de5cbe3e6" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F1054e71f76f5c25e634c4c799194a01de5cbe3e6" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[핸드스피크 독도리🇰🇷 수어랩 Full ver.]]></title>
