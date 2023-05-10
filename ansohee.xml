@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 안소희</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 11:16:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 12:33:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://tv.kakao.com/channel/3817543/cliplink/436553460?act=clip</guid>
             <pubDate>Mon, 01 May 2023 11:15:51 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>18:30]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb7e168cc82521df3f9b8ca6cbffb1284d0925563" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fb7e168cc82521df3f9b8ca6cbffb1284d0925563" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[85회. 내가 모임 때 가져가는 최애 샴페인 6종💖🍾 | 페리에주에, 필리조에필스, RSRV, 디에볼발루아, 루이나트]]></title>
