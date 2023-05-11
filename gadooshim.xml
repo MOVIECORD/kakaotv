@@ -4,7 +4,7 @@
         <title>kakaoTV ─ 우수무당 가두심</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 04:21:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 05:17:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -45,7 +45,7 @@
             <guid>https://tv.kakao.com/channel/3841507/cliplink/422903183?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>20:17]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9519cd56d9ccd85912f37944b1a1e573055f00c2" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F9519cd56d9ccd85912f37944b1a1e573055f00c2" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA["당신때문에 애들이 죽었어" 마지막 싸움, 이제 두심이가 선택해야 해]]></title>
@@ -61,7 +61,7 @@
             <guid>https://tv.kakao.com/channel/3841507/cliplink/422719821?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:06]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Febdf28d93cd3c03215615380e53af6f6b0ee2b60" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Febdf28d93cd3c03215615380e53af6f6b0ee2b60" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA["넌 내가 살릴 거야" 김새론X남다름X이지원, 옥상 난간에서의 위기!]]></title>
@@ -117,7 +117,7 @@
             <guid>https://tv.kakao.com/channel/3841507/cliplink/422562828?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:07]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7c8fac62d90fd13894a03fe4f1861a2bf5e00a26" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C320x180.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F7c8fac62d90fd13894a03fe4f1861a2bf5e00a26" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA["악령을 만날거야" 스스로 전교 꼴등이 된 남다름]]></title>
@@ -181,7 +181,7 @@
             <guid>https://tv.kakao.com/channel/3841507/cliplink/422380299?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>18:59]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2714c0e8e9622bd32a1c479deb306e306a18f1f2" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F2714c0e8e9622bd32a1c479deb306e306a18f1f2" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[(소근소근) 송영고는 연기 천재들만 다닌대요]]></title>
@@ -205,7 +205,7 @@
             <guid>https://tv.kakao.com/channel/3841507/cliplink/422195999?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:28]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F12def9253fa513a15edf9c1983b9638c4a11e2c1" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2F12def9253fa513a15edf9c1983b9638c4a11e2c1" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[송영고 지하에 있는 존재들의 정체! 그 속에서 마주친 김새론X남다름]]></title>
@@ -269,7 +269,7 @@
             <guid>https://tv.kakao.com/channel/3841507/cliplink/422006341?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:23]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc93ad19f4dda5c925165beebc8468bc7828ae581" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fc93ad19f4dda5c925165beebc8468bc7828ae581" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA[[MV] 유선호 - Forever Smile [우수무당 가두심] OST part.3]]></title>
@@ -317,7 +317,7 @@
             <guid>https://tv.kakao.com/channel/3841507/cliplink/421829412?act=clip</guid>
             <pubDate>Wed, 16 Nov 2022 17:35:36 GMT</pubDate>
             <content:encoded><![CDATA[<em class="screen_out">재생시간 : </em>19:03]]></content:encoded>
-            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=https%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fcb99c512848e4c47a3c252b01ed4e2fa62482f0f" length="0" type="image/q75/"/>
+            <enclosure url="https://img1.kakaocdn.net/thumb/C240x140.fjpg.q75/?fname=http%3A%2F%2Ft1.kakaocdn.net%2Fkakaotv%2FASSET%2Fwarhol_asset%2Fvod_thumbnail%2Fcb99c512848e4c47a3c252b01ed4e2fa62482f0f" length="0" type="image/q75/"/>
         </item>
         <item>
             <title><![CDATA["눈을 감아도 너만 보여" 김새론에게 심쿵 멘트💘 날리는 남다름]]></title>
